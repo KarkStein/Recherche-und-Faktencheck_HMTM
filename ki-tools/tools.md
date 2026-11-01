@@ -23,7 +23,7 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Überblick über ein Thema | – | Gemini Deep Research, Claude Research (Pro) |
 | eigene Dokumente befragen | – | Gemini Notebook, Claude-Projekt |
 | große Dokumentenstapel durchsuchen | öffentliche Pinpoint-Sammlungen° | Pinpoint |
-| Interviews transkribieren | noScribe (läuft lokal) | TurboScribe, Pinpoint |
+| Interviews transkribieren | noScribe (läuft lokal), Whisper im Browser° | TurboScribe, Pinpoint |
 | Studien finden | – | Scholar Labs, Consensus |
 | fremdsprachige Quellen lesen | DeepL (mit Limit) | DeepL mit mehr Umfang |
 | Gegenargumente, Interviewfragen | Duck.ai, Lumo | Claude, Le Chat, Euria |
@@ -73,7 +73,10 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Tool | Was es kann | Zugang | Adresse |
 |---|---|---|---|
 | noScribe | transkribiert auf dem eigenen Rechner, offline, Open Source | kostenlos, installieren | [github.com/kaixxx/noScribe](https://github.com/kaixxx/noScribe) |
+| Whisper im Browser | transkribiert im Browser auf dem eigenen Rechner, Datei oder Mikrofon; eine Demo der webml-community auf Hugging Face | ohne Konto° | [huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu](https://huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu) |
 | TurboScribe | Transkription im Browser, Freemium | Konto, kostenlos mit Limit | [turboscribe.ai](https://turboscribe.ai/) |
+
+**Whisper im Browser:** Die Seite (geöffnet am 01.11.2026) sagt, die Spracherkennung laufe „directly in your browser“. Ob die Aufnahme dabei sicher auf eurem Rechner bleibt, steht dort nicht ausdrücklich: zu prüfen. Der Name verweist auf WebGPU, also braucht ihr vermutlich einen aktuellen Browser mit WebGPU-Unterstützung. Für vertrauliches Material bleibt noScribe die sichere Wahl.
 
 **Achtung bei noScribe:** Die Seite noscribe.ai gehört nicht zum Projekt. Laut README des Projekts (geöffnet am 01.11.2026) ist die neue offizielle Website noscribe.de, die Downloads verlinkt die README. Ladet das Programm nur über diese Wege.
 
