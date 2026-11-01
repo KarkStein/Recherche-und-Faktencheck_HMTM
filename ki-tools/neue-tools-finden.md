@@ -39,8 +39,8 @@ Acht Fragen. Die ersten drei entscheiden.
 
 ### Warum die Fragen 1, 2 und 7 zählen: der Fall FakeGit
 
-- Die Kampagne „FakeGit“ hat laut [BleepingComputer vom 08.10.2026](https://bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos) 17.610 gefälschte GitHub-Repos angelegt. Sie haben überzeugende READMEs mit einem Download-Knopf, hinter dem Schadsoftware steckt, die Passwörter und Sitzungen stiehlt.
-- Laut [Island vom 20.07.2026](https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware) gaben sich rund 800 davon als KI-Skills oder MCP-Server aus. Sie standen auch in öffentlichen Verzeichnissen, darunter eine Kopie einer beliebten awesome-Liste. In Tests haben KI-Assistenten diese Repos selbst gefunden und weiterempfohlen.
+- Die Kampagne „FakeGit“ hat laut [BleepingComputer vom 08.10.2026](https://bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos) 17.610 gefälschte GitHub-Repos angelegt. Sie haben überzeugende READMEs mit einem Download-Knopf. Dahinter steckt eine ZIP-Datei mit Schadsoftware, die Zugangsdaten stiehlt.
+- Schon im Juli hatte [Island (20.07.2026)](https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware) rund 7.600 Repos derselben Kampagne gezählt. Über 800 davon gaben sich als KI-Skills oder MCP-Server aus und standen auch in öffentlichen Verzeichnissen, darunter eine nachgemachte awesome-Liste mit Claude-Skills. In Tests von Island haben KI-Assistenten diese Repos selbst gefunden und weiterempfohlen.
 
 Daraus folgt: Ein Eintrag in einem Verzeichnis ist kein Gütesiegel, und auch eine KI als Tool-Scout braucht die Prüfliste. Dasselbe Muster kennt ihr von noScribe: Das echte Projekt liegt auf GitHub, daneben gab es eine Fake-Domain (L-IZ, 28.01.2026, übernommen, hier nicht erneut geöffnet). Mehr dazu in der [Tool-Liste](tools.md#transkription).
 
@@ -117,8 +117,8 @@ Geöffnet am 01.11.2026, sofern nicht anders vermerkt.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers): rund 97.000 Sterne
 - [jamditis/claude-skills-journalism](https://github.com/jamditis/claude-skills-journalism): MIT-Lizenz, Einrichtung vor allem über Entwickler-Werkzeuge
 - [Show HN](https://news.ycombinator.com/show): ohne Konto lesbar
-- [BleepingComputer, 08.10.2026](https://bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos): FakeGit mit 17.610 Repos
-- [Island, 20.07.2026](https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware): rund 800 gefälschte Skills und MCP-Server, KI-Assistenten empfehlen sie in Tests
+- [BleepingComputer, 08.10.2026](https://bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos): FakeGit mit 17.610 Repos, Download-Knopf führt zu einer ZIP-Datei mit Schadsoftware
+- [Island, 20.07.2026](https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware): rund 7.600 Repos der Kampagne, über 800 als Skills oder MCP-Server getarnt, KI-Assistenten empfehlen sie in Tests
 - [KI-Update bei podcast.de](https://www.podcast.de/episode/705152297/ki-update-kompakt-ki-investitionen-forschungssoftware-icloud-gema-vs-suno): Folge vom 03.08.2026, Erscheinungstage Mo, Mi, Fr
 - [The Decoder](https://the-decoder.de/): Startseite, Meldungen vom 31.10.2026
 - [Indicator, Autorenseite Henk van Ess](https://indicator.media/authors/henk-van-ess): Artikel vom 14.09.2026
