@@ -73,7 +73,7 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Tool | Was es kann | Zugang | Adresse |
 |---|---|---|---|
 | noScribe | transkribiert auf dem eigenen Rechner, offline, Open Source | kostenlos, installieren | [github.com/kaixxx/noScribe](https://github.com/kaixxx/noScribe) |
-| Whisper im Browser | transkribiert im Browser auf dem eigenen Rechner, Datei oder Mikrofon; eine Demo der webml-community auf Hugging Face | ohne Konto° | [huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu](https://huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu) |
+| Whisper im Browser | transkribiert im Browser, Datei oder Mikrofon; eine Demo der webml-community auf Hugging Face. Ob lokal, ist ungeprüft: Vertrauliches nur mit noScribe | ohne Konto° | [huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu](https://huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu) |
 | TurboScribe | Transkription im Browser, Freemium | Konto, kostenlos mit Limit | [turboscribe.ai](https://turboscribe.ai/) |
 
 **Whisper im Browser:** Die Seite (geöffnet am 01.11.2026) sagt, die Spracherkennung laufe „directly in your browser“. Ob die Aufnahme dabei sicher auf eurem Rechner bleibt, steht dort nicht ausdrücklich: zu prüfen. Der Name verweist auf WebGPU, also braucht ihr vermutlich einen aktuellen Browser mit WebGPU-Unterstützung. Für vertrauliches Material bleibt noScribe die sichere Wahl.
