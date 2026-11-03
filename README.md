@@ -2,15 +2,16 @@
 
 Material zum Seminar „Recherche und Faktencheck“ im Master Kulturjournalismus an der Hochschule für Musik und Theater München, 05. und 06.11.2026.
 
-Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: vier KI-Skills zum Kopieren, die Linklisten aus den Folien, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
+Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: fünf KI-Skills zum Kopieren oder Hochladen, der Faktencheck-Assistent Moby, die Linklisten aus den Folien, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
 
-Stand: 01.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
+Stand: 03.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
 
 ## Was wo liegt
 
 | Ordner | Was drin ist | Kapitel |
 |---|---|---|
-| [skills/](skills/) | vier Skills zum Kopieren: [Moby](skills/moby-faktencheck/) (Faktencheck), [Herkunftscheck](skills/herkunftscheck/), [Themenrecherche](skills/themenrecherche/), [PDB-Helfer](skills/pdb-helfer/); dazu die [Anleitung](skills/ANLEITUNG.md) | 2–5 |
+| [skills/](skills/) | fünf Skills zum Kopieren oder Hochladen: [Faktencheck](skills/faktencheck/), [Herkunftscheck](skills/herkunftscheck/), [Themenrecherche](skills/themenrecherche/), [Expertenmeinungen](skills/expertenmeinungen/), [PDB-Helfer](skills/pdb-helfer/); dazu die [Anleitung](skills/ANLEITUNG.md) | 2–5 |
+| [agent/](agent/moby/) | [Moby](agent/moby/), der Faktencheck-Assistent für Projekt, GPT oder Le-Chat-Agent | 5b |
 | [ki-tools/](ki-tools/) | [Spickzettel](ki-tools/spickzettel.pdf) als PDF, [alle Tools mit Link](ki-tools/tools.md), [Neue KI-Tools finden und prüfen](ki-tools/neue-tools-finden.md) | 4, 6 |
 | [suche/](suche/) | [Google: Operatoren, erweiterte Suche, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md) | 2, 3 |
 | [prompts/](prompts/) | [Von der Frage zum Auftrag](prompts/recherche-auftrag.md), [KI-Antworten prüfen](prompts/ki-antworten-pruefen.md) | 4 |
@@ -18,12 +19,12 @@ Stand: 01.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
 
 ## In zwei Minuten loslegen
 
-1. Öffnet [skills/moby-faktencheck/Moby_Faktencheck.md](skills/moby-faktencheck/Moby_Faktencheck.md).
+1. Öffnet [agent/moby/Moby_Faktencheck.md](agent/moby/Moby_Faktencheck.md).
 2. Klickt oben rechts über dem Text auf das Kopier-Symbol („Copy raw file“).
 3. Fügt alles in einen KI-Chat mit Websuche ein und schickt es ab.
 4. Nächste Nachricht: „Prüfe diesen Text:“ und darunter euer Text.
 
-Mehr dazu, auch für Projekte, Gems und Agenten, steht in der [Anleitung](skills/ANLEITUNG.md).
+Habt ihr ein Konto bei Claude oder Gemini, könnt ihr die Skills auch hochladen. Dann starten sie in jedem Chat von selbst, sobald eure Frage passt. Wie das geht, auch für Projekte und Agenten, steht in der [Anleitung](skills/ANLEITUNG.md).
 
 **Ohne GitHub-Konto:** Lesen und Kopieren geht ohne Konto. Alles auf einmal herunterladen: grüner Knopf „Code“, dann „Download ZIP“.
 

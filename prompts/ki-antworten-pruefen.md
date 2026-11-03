@@ -63,4 +63,4 @@ Welche Aussagen in deiner Antwort stammen aus deinem Trainingswissen und nicht a
 
 Die Antworten darauf sind wieder KI-Antworten. Sie helfen euch, die Stellen zu finden, die ihr selbst prüfen müsst. Sie ersetzen das Öffnen der Quelle nicht.
 
-Einen ganzen Text prüft der Faktencheck-Skill [Moby](../skills/moby-faktencheck/), eine einzelne Zahl oder ein Zitat bis zum Ursprung der [Herkunftscheck](../skills/herkunftscheck/).
+Einen ganzen Text prüfen der [Faktencheck](../skills/faktencheck/) und der Assistent [Moby](../agent/moby/), eine einzelne Zahl oder ein Zitat bis zum Ursprung der [Herkunftscheck](../skills/herkunftscheck/).

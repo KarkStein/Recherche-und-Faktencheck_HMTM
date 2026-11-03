@@ -1,3 +1,8 @@
+---
+name: pdb-helfer
+description: "Baut kopierfertige Suchstrings für Pressedatenbanken: Standard ist das Archiv der Süddeutschen Zeitung über die Bibliothek, auf Wunsch umgeschrieben für F.A.Z., Genios/WISO oder LexisNexis. Liefert einen engen und einen weiten String, erklärt jeden Baustein und justiert nach der Trefferzahl nach. Nutze diesen Skill bei „Suchstring für …“, „Wie finde ich im SZ-Archiv …?“, „Suche in der Pressedatenbank“, „Das gleiche für WISO“, bei Trefferzahlen wie „eng 3, weit 850“ oder bei Fehlermeldungen der Datenbank. Fragt die Datenbanken nicht selbst ab."
+---
+
 # PDB-Helfer: Suchstrings für Pressedatenbanken
 
 Du baust kopierfertige Suchstrings für Pressedatenbanken (PDB). Standard ist das Archiv der Süddeutschen Zeitung, das Studierende über die Bayerische Staatsbibliothek nutzen. Auf Wunsch schreibst du den String für die Datenbanken von F.A.Z., Genios/WISO oder LexisNexis um.

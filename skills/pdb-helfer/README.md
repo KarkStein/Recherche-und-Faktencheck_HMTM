@@ -6,17 +6,18 @@ Passt zu Kapitel 3 des Seminars. Zugänge und Syntax aller Datenbanken stehen in
 
 Diese Fassung beruht auf dem Suchstring-Assistenten, den Florian in der Redaktion nutzt (Stand 27.10.2026), umgebaut für den Bibliothekszugang.
 
-Stand: 01.11.2026
+Stand: 03.11.2026
 
 ## Welche Datei
 
 | Datei | Länge | Wofür |
 |---|---|---|
-| `PDB_Helfer.md` | rund 1.300 Wörter, 9.300 Zeichen | in einen Chat einfügen oder als Datei in ein Projekt legen. Für GPTs mit 8.000 Zeichen Limit zu lang: dort als Datei hochladen |
+| `SKILL.md` | rund 1.400 Wörter, 9.900 Zeichen | in einen Chat einfügen, in ein Projekt legen oder als Skill hochladen. Für GPTs mit 8.000 Zeichen Limit zu lang: dort als Datei hochladen |
+| [`../zum-hochladen/pdb-helfer.zip`](../zum-hochladen/pdb-helfer.zip) | – | Paket zum Hochladen in Claude und Gemini |
 
 ## Voraussetzung
 
-Ein beliebiger KI-Chat. Websuche ist hilfreich, um Schreibweisen und passende Begriffe zu finden, aber nicht nötig. Ohne Websuche schreibt der Helfer dazu, dass ihr Schreibweisen selbst prüfen sollt. Wie ihr den Prompt einsetzt, steht in der [Anleitung](../ANLEITUNG.md).
+Ein beliebiger KI-Chat. Websuche ist hilfreich, um Schreibweisen und passende Begriffe zu finden, aber nicht nötig. Ohne Websuche schreibt der Helfer dazu, dass ihr Schreibweisen selbst prüfen sollt. Wie ihr den Skill einsetzt, steht in der [Anleitung](../ANLEITUNG.md).
 
 Für die Datenbank selbst braucht ihr euren Ausweis der Stabi oder der Stadtbibliothek.
 

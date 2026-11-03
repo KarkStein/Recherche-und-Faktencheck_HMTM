@@ -1,17 +1,19 @@
 # Moby zum Mitnehmen
 
-Moby ist ein Faktencheck-Assistent: ein langer Prompt mit Regeln, der in einem KI-Assistenten mit Websuche läuft. Er prüft einen Text in vier Schritten (Fakten herausziehen, in Aspekte zerlegen, prüfen, Bericht) und liefert einen Bericht mit Status, Quellen und Korrekturvorschlägen. Das ist dieselbe Methode wie im Seminar, Kapitel 5b.
+Moby ist ein Faktencheck-Assistent. Er prüft einen Text in vier Schritten (Fakten herausziehen, in Aspekte zerlegen, prüfen, Bericht) und liefert einen Bericht mit Status, Quellen und Korrekturvorschlägen. Das ist dieselbe Methode wie im Seminar, Kapitel 5b.
 
-Diese Fassung ist für euch zum Mitnehmen. Sie beruht auf dem Moby, den Florian in der Redaktion nutzt (Stand 27.10.2026), und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft.
+Moby ist kein Skill, sondern ein Assistent mit eigenem Raum. Ihr richtet ihn einmal als Projekt, GPT oder Le-Chat-Agent ein, und dort ist jede Nachricht ein Text zum Prüfen. Wollt ihr dieselbe Prüfung in einem normalen Chat, der von selbst erkennt, wann geprüft werden soll, nehmt den Skill [Faktencheck](../../skills/faktencheck/). Den Unterschied erklärt die [Seite zum Faktencheck](../../skills/faktencheck/README.md#faktencheck-oder-moby).
 
-Stand: 01.11.2026
+Diese Fassung beruht auf dem Moby, den Florian in der Redaktion nutzt (Stand 27.10.2026), und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft.
+
+Stand: 03.11.2026
 
 ## Welche Datei wofür
 
 | Datei | Länge | Wofür |
 |---|---|---|
-| `Moby_Faktencheck.md` | rund 3.200 Wörter, 24.000 Zeichen | Langfassung: in einen Chat einfügen oder als Datei in ein Projekt legen |
-| `Moby_kurz.md` | rund 4.800 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit |
+| `Moby_Faktencheck.md` | rund 3.200 Wörter, 23.100 Zeichen | Langfassung: in einen Chat einfügen oder als Datei in ein Projekt legen |
+| `Moby_kurz.md` | rund 4.600 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit |
 
 Wenn ihr die Wahl habt, nehmt die Langfassung. Sie enthält die Quellenregeln und Beispiele, die Kurzfassung nur das Gerüst.
 
@@ -19,7 +21,7 @@ Wenn ihr die Wahl habt, nehmt die Langfassung. Sie enthält die Quellenregeln un
 
 Ein KI-Assistent, der **im Web suchen** kann. Ohne Websuche erfindet ein Modell im schlimmsten Fall Quellen. Moby ist so gebaut, dass er dann ablehnt und nur die Prüfliste liefert. Noch besser ist ein Tool, das gefundene Seiten auch **öffnen und lesen** kann, nicht nur die Suchtreffer.
 
-Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der Testtabelle der [Anleitung](../ANLEITUNG.md#getestet-oder-noch-zu-prüfen)).
+Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der Testtabelle der [Anleitung](../../skills/ANLEITUNG.md#getestet-oder-noch-zu-prüfen)).
 
 ## So geht's
 
@@ -34,17 +36,14 @@ Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopier
 3. Falls ihr die Datei hochgeladen habt, in die Anweisungen schreiben: „Arbeite immer nach der Datei Moby_Faktencheck.md. Jede Nachricht ist der zu prüfende Text.“
 4. Im Projekt einen Chat starten und den Text einfügen.
 
-**Als Gem in Gemini**
-1. Neues Gem anlegen.
-2. Die Kurzfassung `Moby_kurz.md` in das Anweisungsfeld kopieren. Passt die Langfassung hinein, nehmt die.
-3. Gem speichern und den Text einfügen.
-
 **Als Agent in Le Chat**
 1. Neuen Agenten anlegen.
 2. Kurz- oder Langfassung in die Anweisungen kopieren, Websuche aktivieren.
 3. Agent im Chat aufrufen und den Text einfügen.
 
 **Als GPT in ChatGPT:** Das Anweisungsfeld ist auf 8.000 Zeichen begrenzt, also die Kurzfassung nehmen. Ob ihr ohne Abo eigene GPTs anlegen könnt, ist nicht geprüft.
+
+**In Gemini:** Gems werden am 17.11.2026 schreibgeschützt und am 17.12.2026 gelöscht. Einen festen Raum wie ein Gem gibt es dann nicht mehr. Nehmt in Gemini den Skill [Faktencheck](../../skills/faktencheck/), wie ihr ihn einrichtet, steht in der [Anleitung](../../skills/ANLEITUNG.md).
 
 ## Den Bericht lesen
 
@@ -70,13 +69,13 @@ Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopier
 
 ## Was noch zu prüfen ist
 
-Der Test in den Tools steht noch aus (geplant beim Testlauf am 03./04.11.2026). Die Testtabelle für alle vier Skills steht in der [Anleitung](../ANLEITUNG.md#getestet-oder-noch-zu-prüfen).
+Der Test in den Tools steht noch aus (geplant beim Testlauf am 03./04.11.2026). Die Testtabelle für Moby und alle Skills steht in der [Anleitung](../../skills/ANLEITUNG.md#getestet-oder-noch-zu-prüfen).
 
 ## Belege für die Angaben zu den Tools
 
 - Claude Free: Websuche und bis zu fünf Projekte, laut [claude.com/pricing](https://claude.com/pricing), geöffnet am 31.10.2026.
 - ChatGPT-Projekte für Free-Nutzer seit September 2025, laut [promptoptimizer.tools, 23.07.2026](https://promptoptimizer.tools/blog/how-to-use-chatgpt-projects), Drittquelle, geöffnet am 01.11.2026.
 - GPT-Anweisungen höchstens 8.000 Zeichen, laut [OpenAI Developer Community, 04.06.2024](https://community.openai.com/t/how-can-i-increase-the-ceiling-for-gpt-instructions-beyond-8000-characters/801867), geöffnet am 01.11.2026. Ein neuerer Stand ist zu prüfen.
-- Gems für alle ohne Abo seit 26.03.2025, laut [GoogleWatchBlog](https://www.googlewatchblog.de/2025/03/gemini-neue-kostenlose-funktion-startet-jetzt-fuer-alle-nutzer-eigene-gems-agenten-erstellen-und-nutzen/), geöffnet am 01.11.2026.
+- Gems ab 17.11.2026 schreibgeschützt, ab 17.12.2026 entfernt, laut [Gemini-Hilfe](https://support.google.com/gemini/answer/18560919?hl=en), geöffnet am 03.11.2026.
 - Agents in Le Chat ohne Abo, aber mit Konto, laut Mistral-Hilfe, geprüft am 31.10.2026.
 - MCP: seit 09.12.2025 Projekt der Agentic AI Foundation unter dem Dach der Linux Foundation, laut [MCP-Blog](https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/), geöffnet am 01.11.2026.
