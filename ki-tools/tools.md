@@ -35,8 +35,8 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 Das Pult aus Kapitel 4: Mit diesen vier Fragen ordnet ihr jedes Tool ein, auch neue.
 
 1. **Modell und Denkzeit:** Wie stark ist das Modell, wie lange denkt es nach?
-2. **Auftrag:** Wie strukturiert ist euer Input? Frage, Prompt oder Skill.
-3. **Zugriff:** Welche Quellen sind offen? Gedächtnis, offenes Web, eure Dateien, eure Dienste.
+2. **Zugriff:** Welche Quellen sind offen? Gedächtnis, offenes Web, eure Dateien, eure Dienste.
+3. **Auftrag:** Wie strukturiert ist euer Input? Frage, Prompt oder Skill.
 4. **Selbstständigkeit:** Wer bestimmt den nächsten Schritt, und verändert die KI etwas? Wenn sie handelt, nur mit eurer Freigabe.
 
 ## Alle Tools
