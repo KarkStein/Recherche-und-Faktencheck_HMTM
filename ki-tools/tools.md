@@ -1,6 +1,6 @@
 # KI-Tools für die Recherche: alle mit Link
 
-Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand: 01.11.2026, ohne Gewähr.
+Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand der Angaben zu Zugang und Preisen: 01.11.2026, ohne Gewähr. Spickzettel in der Fassung vom 03.11.2026.
 
 **Prüfstufe:** Zugang und Preise wurden für den Spickzettel am 31.10.2026 auf den Seiten der Anbieter oder in datierten Berichten geprüft. Die Adressen sind von dort übernommen. Was davon offen ist, steht als „zu prüfen“ dabei.
 
@@ -23,12 +23,21 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Überblick über ein Thema | – | Gemini Deep Research, Claude Research (Pro) |
 | eigene Dokumente befragen | – | Gemini Notebook, Claude-Projekt |
 | große Dokumentenstapel durchsuchen | öffentliche Pinpoint-Sammlungen° | Pinpoint |
-| Interviews transkribieren | noScribe (läuft lokal) | TurboScribe, Pinpoint |
+| Interviews transkribieren | noScribe (läuft lokal), Whisper im Browser° | TurboScribe, Pinpoint |
 | Studien finden | – | Scholar Labs, Consensus |
 | fremdsprachige Quellen lesen | DeepL (mit Limit) | DeepL mit mehr Umfang |
 | Gegenargumente, Interviewfragen | Duck.ai, Lumo | Claude, Le Chat, Euria |
 | veröffentlichte Faktenchecks finden | Fact Check Explorer° | – |
 | vertrauliches Material | noScribe, sonst nichts hochladen | – |
+
+## Vier Fragen an jedes KI-Tool
+
+Das Pult aus Kapitel 4: Mit diesen vier Fragen ordnet ihr jedes Tool ein, auch neue.
+
+1. **Modell und Denkzeit:** Wie stark ist das Modell, wie lange denkt es nach?
+2. **Zugriff:** Welche Quellen sind offen? Gedächtnis, offenes Web, eure Dateien, eure Dienste.
+3. **Auftrag:** Wie strukturiert ist euer Input? Frage, Prompt oder Skill.
+4. **Selbstständigkeit:** Wer bestimmt den nächsten Schritt, und verändert die KI etwas? Wenn sie handelt, nur mit eurer Freigabe.
 
 ## Alle Tools
 
@@ -73,7 +82,10 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Tool | Was es kann | Zugang | Adresse |
 |---|---|---|---|
 | noScribe | transkribiert auf dem eigenen Rechner, offline, Open Source | kostenlos, installieren | [github.com/kaixxx/noScribe](https://github.com/kaixxx/noScribe) |
+| Whisper im Browser | transkribiert im Browser, Datei oder Mikrofon; eine Demo der webml-community auf Hugging Face. Ob lokal, ist ungeprüft: Vertrauliches nur mit noScribe | ohne Konto° | [huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu](https://huggingface.co/spaces/webml-community/whisper-large-v3-turbo-webgpu) |
 | TurboScribe | Transkription im Browser, Freemium | Konto, kostenlos mit Limit | [turboscribe.ai](https://turboscribe.ai/) |
+
+**Whisper im Browser:** Die Seite (geöffnet am 01.11.2026) sagt, die Spracherkennung laufe „directly in your browser“. Ob die Aufnahme dabei sicher auf eurem Rechner bleibt, steht dort nicht ausdrücklich: zu prüfen. Der Name verweist auf WebGPU, also braucht ihr vermutlich einen aktuellen Browser mit WebGPU-Unterstützung. Für vertrauliches Material bleibt noScribe die sichere Wahl.
 
 **Achtung bei noScribe:** Die Seite noscribe.ai gehört nicht zum Projekt. Laut README des Projekts (geöffnet am 01.11.2026) ist die neue offizielle Website noscribe.de, die Downloads verlinkt die README. Ladet das Programm nur über diese Wege.
 
