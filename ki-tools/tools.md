@@ -1,6 +1,6 @@
 # KI-Tools für die Recherche: alle mit Link
 
-Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand: 01.11.2026, ohne Gewähr.
+Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand der Angaben zu Zugang und Preisen: 01.11.2026, ohne Gewähr. Spickzettel in der Fassung vom 03.11.2026.
 
 **Prüfstufe:** Zugang und Preise wurden für den Spickzettel am 31.10.2026 auf den Seiten der Anbieter oder in datierten Berichten geprüft. Die Adressen sind von dort übernommen. Was davon offen ist, steht als „zu prüfen“ dabei.
 
@@ -29,6 +29,15 @@ Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hi
 | Gegenargumente, Interviewfragen | Duck.ai, Lumo | Claude, Le Chat, Euria |
 | veröffentlichte Faktenchecks finden | Fact Check Explorer° | – |
 | vertrauliches Material | noScribe, sonst nichts hochladen | – |
+
+## Vier Fragen an jedes KI-Tool
+
+Das Pult aus Kapitel 4: Mit diesen vier Fragen ordnet ihr jedes Tool ein, auch neue.
+
+1. **Modell und Denkzeit:** Wie stark ist das Modell, wie lange denkt es nach?
+2. **Auftrag:** Wie strukturiert ist euer Input? Frage, Prompt oder Skill.
+3. **Zugriff:** Welche Quellen sind offen? Gedächtnis, offenes Web, eure Dateien, eure Dienste.
+4. **Selbstständigkeit:** Wer bestimmt den nächsten Schritt, und verändert die KI etwas? Wenn sie handelt, nur mit eurer Freigabe.
 
 ## Alle Tools
 
