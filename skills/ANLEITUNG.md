@@ -107,7 +107,7 @@ Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist fr
 
 Der Test in den Tools steht noch aus, geplant beim Testlauf am 03./04.11.2026. Getestet wird mit Aufgaben aus dem Seminar:
 
-- **Moby und Faktencheck:** der Übungstext aus Kapitel 5b. Finden sie die sechs Stellen?
+- **Moby und Faktencheck:** der Übungstext aus Kapitel 5b. Finden sie alle Fehler, und wo kommen sie ohne PDF nicht weiter?
 - **Herkunftscheck:** die zentrale Zahl aus dem Übungstext. Kommt er bis zum Originaldokument?
 - **Themenrecherche:** die Leitfrage aus Kapitel 4. Nennt er Primärquellen und markiert Unbelegtes?
 - **Expertenmeinungen:** eine Kulturdebatte, etwa KI in der Musikproduktion. Leitet er die Lager aus den Treffern ab, hat jede Stimme eine Fundstelle, sind Snippets markiert?
