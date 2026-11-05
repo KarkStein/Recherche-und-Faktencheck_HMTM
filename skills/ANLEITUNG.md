@@ -1,8 +1,8 @@
 # Anleitung: Skills einsetzen
 
-Ein Skill ist hier ein langer Prompt mit Regeln für eine wiederkehrende Aufgabe. Ihr kopiert ihn in einen KI-Assistenten, und der arbeitet danach nach diesen Regeln. Programmieren müsst ihr dafür nichts. Stand: 01.11.2026.
+Ein Skill ist hier ein langer Prompt mit Regeln für eine wiederkehrende Aufgabe. Ihr kopiert ihn in einen KI-Assistenten, und der arbeitet danach nach diesen Regeln. Programmieren müsst ihr dafür nichts. Stand: 01.11.2026, Prompthelfer ergänzt am 05.11.2026.
 
-## Die vier Skills
+## Die fünf Skills
 
 | Skill | Was er tut | Braucht Websuche? | Kapitel |
 |---|---|---|---|
@@ -10,10 +10,11 @@ Ein Skill ist hier ein langer Prompt mit Regeln für eine wiederkehrende Aufgabe
 | [Herkunftscheck](herkunftscheck/) | verfolgt ein Zitat, eine Zahl oder Behauptung bis zum Ursprung | ja, am besten mit Seitenabruf | 5b |
 | [Themenrecherche](themenrecherche/) | recherchiert ein Thema mit Belegen, Gegenprobe und Quellenkritik | ja | 2, 4 |
 | [PDB-Helfer](pdb-helfer/) | baut Suchstrings für SZ, F.A.Z., Genios/WISO und LexisNexis | hilfreich, nicht nötig | 3 |
+| [Prompthelfer](prompthelfer/) | schreibt mit euch Prompts, Agenten-Aufträge und eigene Skills für ein selbst gewähltes Thema | nein | 4 |
 
 ## Welche Datei wofür
 
-Zu Moby, Herkunftscheck und Themenrecherche gibt es eine **Langfassung** und eine **Kurzfassung** (`…_kurz.md`). Nehmt, wenn möglich, die Langfassung: Nur sie enthält die Quellenregeln mit Beispielen und alle Sonderfälle. Die Kurzfassung ist für Anweisungsfelder mit Zeichenlimit.
+Zu Moby, Herkunftscheck, Themenrecherche und Prompthelfer gibt es eine **Langfassung** und eine **Kurzfassung** (`…_kurz.md`). Nehmt, wenn möglich, die Langfassung: Nur sie enthält die Quellenregeln mit Beispielen und alle Sonderfälle. Die Kurzfassung ist für Anweisungsfelder mit Zeichenlimit.
 
 | Skill | Langfassung | Kurzfassung |
 |---|---|---|
@@ -21,6 +22,7 @@ Zu Moby, Herkunftscheck und Themenrecherche gibt es eine **Langfassung** und ein
 | Herkunftscheck | 16.100 Zeichen | 3.600 Zeichen |
 | Themenrecherche | 15.400 Zeichen | 3.600 Zeichen |
 | PDB-Helfer | 9.300 Zeichen | – |
+| Prompthelfer | 16.800 Zeichen | 5.400 Zeichen |
 
 ## Kopieren ohne GitHub-Konto
 
@@ -81,16 +83,17 @@ Der Test in den Tools steht noch aus, geplant beim Testlauf am 03./04.11.2026. G
 - **Herkunftscheck:** die zentrale Zahl aus dem Übungstext. Kommt er bis zum Originaldokument?
 - **Themenrecherche:** die Leitfrage aus Kapitel 4. Nennt er Primärquellen und markiert Unbelegtes?
 - **PDB-Helfer:** eine Suche nach Interviews mit einer Person im SZ-Archiv und dieselbe Suche für WISO. Läuft der String ohne Fehlermeldung?
+- **Prompthelfer:** ein selbst gewähltes Thema. Fragt er nach, bevor er schreibt? Steht der Prompt kopierfertig im Kasten, und läuft er in einem neuen Chat?
 
-| Tool | Zugang | Websuche | Moby | Herkunftscheck | Themenrecherche | PDB-Helfer |
-|---|---|---|---|---|---|---|
-| Claude (Free, mit Konto) | zu prüfen | zu prüfen | | | | |
-| ChatGPT ohne Konto | zu prüfen | zu prüfen | | | | |
-| ChatGPT-Projekt (Free, mit Konto) | zu prüfen | zu prüfen | | | | |
-| Gemini-Gem (mit Konto) | zu prüfen | zu prüfen | | | | |
-| Le Chat-Agent (mit Konto) | zu prüfen | zu prüfen | | | | |
-| Perplexity ohne Konto | zu prüfen | zu prüfen | | | | |
-| Lumo als Gast | zu prüfen | zu prüfen | | | | |
+| Tool | Zugang | Websuche | Moby | Herkunftscheck | Themenrecherche | PDB-Helfer | Prompthelfer |
+|---|---|---|---|---|---|---|---|
+| Claude (Free, mit Konto) | zu prüfen | zu prüfen | | | | | |
+| ChatGPT ohne Konto | zu prüfen | zu prüfen | | | | | |
+| ChatGPT-Projekt (Free, mit Konto) | zu prüfen | zu prüfen | | | | | |
+| Gemini-Gem (mit Konto) | zu prüfen | zu prüfen | | | | | |
+| Le Chat-Agent (mit Konto) | zu prüfen | zu prüfen | | | | | |
+| Perplexity ohne Konto | zu prüfen | zu prüfen | | | | | |
+| Lumo als Gast | zu prüfen | zu prüfen | | | | | |
 
 Pro Zelle: läuft / läuft mit Einschränkung / läuft nicht, und ein Stichwort.
 

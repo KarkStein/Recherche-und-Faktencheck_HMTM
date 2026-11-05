@@ -4,6 +4,8 @@ Aus Kapitel 4 des Seminars (Folien „Prompten: von der Frage zum Auftrag“ und
 
 **Wichtigste Botschaft: Schreibt das, was ihr bekommen wollt.** Und übernehmt nur, was ihr in der Quelle selbst gesehen habt.
 
+Hilfe beim Schreiben: Der [Prompthelfer](../skills/prompthelfer/) geht diese Checklisten mit euch durch und schreibt den Prompt für euer eigenes Thema.
+
 ## Zwei Arten zu fragen
 
 | Einzelne Frage | Auftrag an einen Agenten oder Prozess |
