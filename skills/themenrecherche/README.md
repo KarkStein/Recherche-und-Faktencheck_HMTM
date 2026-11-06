@@ -1,27 +1,28 @@
 # Themenrecherche zum Mitnehmen
 
-Die Themenrecherche ist ein Recherche-Assistent: ein langer Prompt mit Regeln, der in einem KI-Assistenten mit Websuche läuft. Ihr gebt ein Thema oder eine Frage ein, er sucht zuerst bei Primärquellen, belegt jeden Fakt mit Link, macht bei Streitthemen die Gegenprobe und schließt mit Quellenverzeichnis und Quellenkritik. Das ist die Arbeitsweise aus den Kapiteln 2 und 4 des Seminars.
+Die Themenrecherche ist ein Recherche-Skill, der in einem KI-Assistenten mit Websuche läuft. Ihr gebt ein Thema oder eine Frage ein, er sucht zuerst bei Primärquellen, belegt jeden Fakt mit Link, macht bei Streitthemen die Gegenprobe und schließt mit Quellenverzeichnis und Quellenkritik. Das ist die Arbeitsweise aus den Kapiteln 2 und 4 des Seminars.
 
 Diese Fassung beruht auf dem Recherche-Assistenten, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen.
 
-Stand: 01.11.2026
+Stand: 03.11.2026
 
 ## Welche Datei wofür
 
 | Datei | Länge | Wofür |
 |---|---|---|
-| `Themenrecherche.md` | rund 2.000 Wörter, 15.400 Zeichen | Langfassung: in einen Chat einfügen oder als Datei in ein Projekt legen |
-| `Themenrecherche_kurz.md` | rund 3.600 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit (Gem, GPT) |
+| `SKILL.md` | rund 2.100 Wörter, 16.000 Zeichen | Langfassung: in einen Chat einfügen, in ein Projekt legen oder als Skill hochladen |
+| `Themenrecherche_kurz.md` | rund 3.600 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit (GPT, Le-Chat-Agent) |
+| [`../zum-hochladen/themenrecherche.zip`](../zum-hochladen/themenrecherche.zip) | – | Paket zum Hochladen in Claude und Gemini |
 
 Wenn ihr die Wahl habt, nehmt die Langfassung.
 
 ## Voraussetzung
 
-Ein KI-Assistent, der **im Web suchen** kann, am besten auch Seiten **öffnen und lesen**. Ohne Websuche liefert der Assistent nur einen Rechercheplan und keine Fakten. Wie ihr den Prompt in Chat, Projekt, Gem oder Agent einsetzt, steht in der [Anleitung](../ANLEITUNG.md).
+Ein KI-Assistent, der **im Web suchen** kann, am besten auch Seiten **öffnen und lesen**. Ohne Websuche liefert der Assistent nur einen Rechercheplan und keine Fakten. Wie ihr den Skill in Chat, Projekt, als hochgeladenen Skill oder als Agent einsetzt, steht in der [Anleitung](../ANLEITUNG.md).
 
 ## So fragt ihr
 
-Nach dem Einfügen der Anweisungen einfach das Thema oder die Frage schreiben. Beispiele:
+Einfach das Thema oder die Frage schreiben. Beispiele:
 
 - „Recherchiere: Wie werden freie Theater in Bayern gefördert?“
 - „Kurz: Wer leitet ab 2027 das Filmfest München?“
@@ -49,4 +50,5 @@ Nach dem Einfügen der Anweisungen einfach das Thema oder die Frage schreiben. B
 
 - Sie kommt nicht hinter Bezahlschranken und nicht in Pressedatenbanken. Dafür gibt es den [PDB-Helfer](../pdb-helfer/) und eure Bibliothekszugänge.
 - Sie ersetzt keinen Anruf. Die Quellenkritik sagt euch, welcher Anruf am meisten absichert.
-- Sie prüft keinen fertigen Text. Dafür gibt es [Moby](../moby-faktencheck/).
+- Sie prüft keinen fertigen Text. Dafür gibt es den [Faktencheck](../faktencheck/) und [Moby](../../agent/moby/).
+- Sie sortiert keine Debatte nach Stimmen und Lagern. Dafür gibt es [Expertenmeinungen](../expertenmeinungen/).

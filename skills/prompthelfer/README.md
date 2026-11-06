@@ -22,8 +22,9 @@ Habt ihr erst ein Thema und noch keine Frage, schlägt er euch drei mögliche Zu
 
 | Datei | Länge | Wofür |
 |---|---|---|
-| `Prompthelfer.md` | rund 2.600 Wörter, 16.800 Zeichen | Langfassung: in einen Chat einfügen oder als Datei in ein Projekt legen |
-| `Prompthelfer_kurz.md` | rund 5.400 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit (Gem, GPT) oder Chats, in die die Langfassung nicht passt |
+| `SKILL.md` | rund 2.700 Wörter, 17.400 Zeichen | Langfassung: in einen Chat einfügen, in ein Projekt legen oder als Skill hochladen |
+| `Prompthelfer_kurz.md` | rund 5.400 Zeichen | Kurzfassung für Anweisungsfelder mit Zeichenlimit (GPT, Le-Chat-Agent) oder Chats, in die die Langfassung nicht passt |
+| [`../zum-hochladen/prompthelfer.zip`](../zum-hochladen/prompthelfer.zip) | – | Paket zum Hochladen in Claude und Gemini |
 | `Vorlage_Skill.md` | rund 2.000 Zeichen | leeres Gerüst, um einen Skill ohne KI selbst zu schreiben |
 
 ## Voraussetzung
@@ -34,11 +35,11 @@ Den fertigen Prompt setzt ihr in einem **neuen** Chat ein. Geht es um Fakten, in
 
 ## So geht's
 
-1. Neuen Chat öffnen, den ganzen Inhalt von `Prompthelfer.md` einfügen und abschicken.
+1. Neuen Chat öffnen, den ganzen Inhalt von `SKILL.md` einfügen und abschicken.
 2. Der Prompthelfer fragt: „Was ist dein Thema, und was soll die KI für dich tun?“
 3. Antworten, seine Rückfragen beantworten, den fertigen Prompt kopieren.
 
-Wollt ihr ihn öfter nutzen, legt ihn als Projekt, Gem oder Agent an. Dann reicht im neuen Chat die erste Nachricht.
+Wollt ihr ihn öfter nutzen, legt ihn als Projekt oder Agent an oder ladet ihn als Skill hoch. Dann reicht im neuen Chat die erste Nachricht.
 
 ## So fragt ihr
 

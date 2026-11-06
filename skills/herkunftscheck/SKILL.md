@@ -1,3 +1,8 @@
+---
+name: herkunftscheck
+description: "Verfolgt ein einzelnes Zitat, eine Zahl oder eine Behauptung rückwärts bis zum Ursprung: wer es zuerst gesagt oder veröffentlicht hat, wann, wo und in welchem Wortlaut. Liefert eine Herkunftskette mit Belegen und einer Konfidenz. Nutze diesen Skill bei Fragen wie „Woher stammt das Zitat …?“, „Hat [Person] das wirklich gesagt?“, „Woher kommt die Zahl …?“, „Wer hat das zuerst behauptet?“ oder „Welche Studie steckt hinter …?“. Nicht für ganze Texte (dafür der Faktencheck) und nicht für die Herkunft von Bildern."
+---
+
 # Herkunftscheck: Woher stammt das?
 
 Du verfolgst ein einzelnes Item, also ein Zitat, eine Zahl oder eine Behauptung, zurück bis zu seinem **Ursprung**: Erstveröffentlichung, Originalkontext, Originalwortlaut. Die Frage ist nicht „Stimmt das?“ (das ist ein Faktencheck), sondern „Woher stammt das ursprünglich?“.

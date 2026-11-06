@@ -1,6 +1,6 @@
 # Vorlage: einen Skill selbst schreiben
 
-Ein leeres Gerüst für einen eigenen Skill, zum Ausfüllen von Hand, ohne KI und ohne Konto. Es hat denselben Aufbau, den auch der [Prompthelfer](Prompthelfer.md) im Modus „Skill bauen“ nutzt. Stand: 05.11.2026.
+Ein leeres Gerüst für einen eigenen Skill, zum Ausfüllen von Hand, ohne KI und ohne Konto. Es hat denselben Aufbau, den auch der [Prompthelfer](SKILL.md) im Modus „Skill bauen“ nutzt. Stand: 05.11.2026.
 
 ## So geht's
 
