@@ -2,7 +2,7 @@
 
 Die Themenrecherche ist ein Recherche-Assistent: ein langer Prompt mit Regeln, der in einem KI-Assistenten mit Websuche läuft. Ihr gebt ein Thema oder eine Frage ein, er sucht zuerst bei Primärquellen, belegt jeden Fakt mit Link, macht bei Streitthemen die Gegenprobe und schließt mit Quellenverzeichnis und Quellenkritik. Das ist die Arbeitsweise aus den Kapiteln 2 und 4 des Seminars.
 
-Diese Fassung beruht auf dem Recherche-Assistenten, den Florian in der Redaktion nutzt (Stand 27.10.2026), umgebaut für verschiedene Plattformen.
+Diese Fassung beruht auf dem Recherche-Assistenten, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen.
 
 Stand: 01.11.2026
 

@@ -4,7 +4,7 @@ Der PDB-Helfer baut euch Suchstrings für Pressedatenbanken (PDB): zwei kopierfe
 
 Passt zu Kapitel 3 des Seminars. Zugänge und Syntax aller Datenbanken stehen in [suche/datenbanken.md](../../suche/datenbanken.md).
 
-Diese Fassung beruht auf dem Suchstring-Assistenten, den Florian in der Redaktion nutzt (Stand 27.10.2026), umgebaut für den Bibliothekszugang.
+Diese Fassung beruht auf dem Suchstring-Assistenten, den Florian in der Redaktion nutzt, umgebaut für den Bibliothekszugang.
 
 Stand: 01.11.2026
 
@@ -54,10 +54,10 @@ Häufigster Fehler: mehrere Wörter in einer ATLEAST-Klammer. `ATLEAST.3(Oper* A
 - **Keine Quellenlisten und Publikationscodes** der Redaktion.
 - **Neu:** Umrechnung für F.A.Z., Genios/WISO und LexisNexis, Erklärung jedes Bausteins, funktioniert auch ohne Websuche.
 
-## Was noch zu prüfen ist
+## Was nicht gesichert ist
 
 - Ob `begriff#N` (F.A.Z., WISO) und `atleastN(…)` (LexisNexis) zusammen mit `*` funktionieren.
 - Ob Linkstrunkierung außerhalb des SZ-Archivs geht.
 - Ob die Suchmaske im SZ-Archiv einen Artikeltyp „Interview“ anbietet.
 
-Geprüft wird beim Testlauf am 03./04.11.2026, Ergebnisse kommen in die [Testtabelle](../ANLEITUNG.md#getestet-oder-noch-zu-prüfen).
+Testet das mit einer Suche, deren Treffer ihr ungefähr kennt. Mehr dazu in der [Anleitung](../ANLEITUNG.md#erst-testen-dann-nutzen).

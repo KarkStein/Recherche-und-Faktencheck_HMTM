@@ -4,7 +4,7 @@ Der Herkunftscheck verfolgt **ein** Zitat, **eine** Zahl oder **eine** Behauptun
 
 Die Abgrenzung zu Moby: Moby prüft einen ganzen Text, der Herkunftscheck geht bei einer einzelnen Aussage in die Tiefe. Passt zu Kapitel 5b des Seminars.
 
-Diese Fassung beruht auf dem Herkunftscheck, den Florian in der Redaktion nutzt (Stand 27.10.2026), umgebaut für verschiedene Plattformen.
+Diese Fassung beruht auf dem Herkunftscheck, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen.
 
 Stand: 01.11.2026
 

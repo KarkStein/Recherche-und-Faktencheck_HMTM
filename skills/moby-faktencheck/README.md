@@ -2,7 +2,7 @@
 
 Moby ist ein Faktencheck-Assistent: ein langer Prompt mit Regeln, der in einem KI-Assistenten mit Websuche läuft. Er prüft einen Text in vier Schritten (Fakten herausziehen, in Aspekte zerlegen, prüfen, Bericht) und liefert einen Bericht mit Status, Quellen und Korrekturvorschlägen. Das ist dieselbe Methode wie im Seminar, Kapitel 5b.
 
-Diese Fassung ist für euch zum Mitnehmen. Sie beruht auf dem Moby, den Florian in der Redaktion nutzt (Stand 27.10.2026), und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft.
+Diese Fassung ist für euch zum Mitnehmen. Sie beruht auf dem Moby, den Florian in der Redaktion nutzt, und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft.
 
 Stand: 01.11.2026
 
@@ -19,7 +19,7 @@ Wenn ihr die Wahl habt, nehmt die Langfassung. Sie enthält die Quellenregeln un
 
 Ein KI-Assistent, der **im Web suchen** kann. Ohne Websuche erfindet ein Modell im schlimmsten Fall Quellen. Moby ist so gebaut, dass er dann ablehnt und nur die Prüfliste liefert. Noch besser ist ein Tool, das gefundene Seiten auch **öffnen und lesen** kann, nicht nur die Suchtreffer.
 
-Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der Testtabelle der [Anleitung](../ANLEITUNG.md#getestet-oder-noch-zu-prüfen)).
+Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der [Tool-Liste](../../ki-tools/tools.md)).
 
 ## So geht's
 
@@ -68,9 +68,9 @@ Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopier
 - **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden, etwa Statistik oder Open-Data-Portale. Dann prüft der Agent gegen Primärquellen statt gegen Suchtreffer.
 - **Ein Workflow statt eines einzelnen Prompts:** feste Schritte mit je eigenem Auftrag, etwa wichtige Fakten gründlich und Nebensachen schnell prüfen. Das braucht eine Plattform für Workflows.
 
-## Was noch zu prüfen ist
+## Erst testen
 
-Der Test in den Tools steht noch aus (geplant beim Testlauf am 03./04.11.2026). Die Testtabelle für alle vier Skills steht in der [Anleitung](../ANLEITUNG.md#getestet-oder-noch-zu-prüfen).
+Moby läuft nicht in jedem Tool gleich gut. Probiert ihn zuerst mit einem Text aus, dessen Fehler ihr kennt, etwa dem Übungstext aus Kapitel 5b. Mehr dazu in der [Anleitung](../ANLEITUNG.md#erst-testen-dann-nutzen).
 
 ## Belege für die Angaben zu den Tools
 

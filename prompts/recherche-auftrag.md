@@ -1,6 +1,6 @@
 # Prompten: von der Frage zum Auftrag
 
-Aus Kapitel 4 des Seminars (Folien „Prompten: von der Frage zum Auftrag“ und „Claude mit Regeln: ein Projekt“). Stand: 01.11.2026.
+Aus Kapitel 4 des Seminars. Stand: 01.11.2026.
 
 **Wichtigste Botschaft: Schreibt das, was ihr bekommen wollt.** Und übernehmt nur, was ihr in der Quelle selbst gesehen habt.
 
@@ -68,7 +68,7 @@ Nutze zuerst die Dateien in diesem Projekt, dann die Websuche.
 Sag, wenn eine Frage mit den Dateien nicht zu beantworten ist.
 ```
 
-Die ersten drei Zeilen stehen so auf der Seminarfolie. Testet die dritte Regel mit einer Fangfrage, deren Antwort nicht in euren Dateien steht. Gute Antwort: „Dazu steht nichts in den Dokumenten.“
+Testet die dritte Regel mit einer Fangfrage, deren Antwort nicht in euren Dateien steht. Gute Antwort: „Dazu steht nichts in den Dokumenten.“
 
 Fertige, längere Anweisungen für wiederkehrende Aufgaben findet ihr unter [skills/](../skills/). Wie ihr sie in Chat, Projekt, Gem oder Agent einsetzt, steht in der [Anleitung](../skills/ANLEITUNG.md).
 

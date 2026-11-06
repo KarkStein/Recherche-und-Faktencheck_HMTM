@@ -4,7 +4,7 @@ Material zum Seminar „Recherche und Faktencheck“ im Master Kulturjournalismu
 
 Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: fünf KI-Skills zum Kopieren, darunter einen Prompthelfer für eure eigenen Themen, die Linklisten aus den Folien, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
 
-Stand: 05.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
+Stand: November 2026 · Lizenz: [CC BY 4.0](LICENSE)
 
 ## Was wo liegt
 
@@ -47,11 +47,6 @@ Wie im Seminar trägt jeder Link eine Prüfstufe:
 - **zu prüfen:** nicht verifiziert.
 
 Zugänge und Preise ändern sich schnell. Alle Angaben stehen mit Datum und ohne Gewähr. Findet ihr einen toten Link oder eine veraltete Angabe, schreibt Florian.
-
-## Was noch kommt
-
-- Nach dem Testlauf am 03./04.11.2026: die Ergebnisse in der [Testtabelle](skills/ANLEITUNG.md#getestet-oder-noch-zu-prüfen).
-- Nach dem Seminar: die Beispielrecherche aus dem Seminar mit allen Quellen und das Übungsblatt aus Kapitel 5b mit Auflösung.
 
 ## Lizenz
 

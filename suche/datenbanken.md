@@ -1,6 +1,6 @@
 # Datenbanken: Zugänge und Suchsyntax
 
-Aus Kapitel 3 der Seminarfolien (Folien 41–57). Stand der Folien: 31.10.2026.
+Aus Kapitel 3 der Seminarfolien.
 
 **Prüfstufe aller Links: übernommen.** Sie stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Zugänge über Bibliotheken ändern sich gelegentlich. Funktioniert ein Link nicht, findet ihr die Datenbank über [DBIS](#datenbanken-finden-dbis).
 

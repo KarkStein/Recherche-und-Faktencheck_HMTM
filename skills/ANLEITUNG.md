@@ -1,6 +1,6 @@
 # Anleitung: Skills einsetzen
 
-Ein Skill ist hier ein langer Prompt mit Regeln für eine wiederkehrende Aufgabe. Ihr kopiert ihn in einen KI-Assistenten, und der arbeitet danach nach diesen Regeln. Programmieren müsst ihr dafür nichts. Stand: 01.11.2026, Prompthelfer ergänzt am 05.11.2026.
+Ein Skill ist hier ein langer Prompt mit Regeln für eine wiederkehrende Aufgabe. Ihr kopiert ihn in einen KI-Assistenten, und der arbeitet danach nach diesen Regeln. Programmieren müsst ihr dafür nichts.
 
 ## Die fünf Skills
 
@@ -75,9 +75,9 @@ Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist fr
 - **Pressedatenbanken:** Was die Skills hinter Bezahlschranken nicht finden, sucht ihr mit dem PDB-Helfer in den Datenbanken eurer Bibliothek.
 - **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden. Mehr dazu in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md).
 
-## Getestet oder noch zu prüfen
+## Erst testen, dann nutzen
 
-Der Test in den Tools steht noch aus, geplant beim Testlauf am 03./04.11.2026. Getestet wird mit Aufgaben aus dem Seminar:
+Nicht jeder Skill läuft in jedem Tool gleich gut. Probiert einen Skill zuerst mit einer Aufgabe aus, deren Ergebnis ihr kennt, etwa aus dem Seminar:
 
 - **Moby:** der Übungstext aus Kapitel 5b. Findet er die sechs Stellen?
 - **Herkunftscheck:** die zentrale Zahl aus dem Übungstext. Kommt er bis zum Originaldokument?
@@ -85,17 +85,7 @@ Der Test in den Tools steht noch aus, geplant beim Testlauf am 03./04.11.2026. G
 - **PDB-Helfer:** eine Suche nach Interviews mit einer Person im SZ-Archiv und dieselbe Suche für WISO. Läuft der String ohne Fehlermeldung?
 - **Prompthelfer:** ein selbst gewähltes Thema. Fragt er nach, bevor er schreibt? Steht der Prompt kopierfertig im Kasten, und läuft er in einem neuen Chat?
 
-| Tool | Zugang | Websuche | Moby | Herkunftscheck | Themenrecherche | PDB-Helfer | Prompthelfer |
-|---|---|---|---|---|---|---|---|
-| Claude (Free, mit Konto) | zu prüfen | zu prüfen | | | | | |
-| ChatGPT ohne Konto | zu prüfen | zu prüfen | | | | | |
-| ChatGPT-Projekt (Free, mit Konto) | zu prüfen | zu prüfen | | | | | |
-| Gemini-Gem (mit Konto) | zu prüfen | zu prüfen | | | | | |
-| Le Chat-Agent (mit Konto) | zu prüfen | zu prüfen | | | | | |
-| Perplexity ohne Konto | zu prüfen | zu prüfen | | | | | |
-| Lumo als Gast | zu prüfen | zu prüfen | | | | | |
-
-Pro Zelle: läuft / läuft mit Einschränkung / läuft nicht, und ein Stichwort.
+Notiert euch pro Tool: läuft, läuft mit Einschränkung oder läuft nicht, und ein Stichwort, warum.
 
 ## Belege für die Angaben zu den Tools
 

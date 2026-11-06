@@ -1,6 +1,6 @@
 # Suchen mit Google: Operatoren, erweiterte Suche, Web-Archiv
 
-Aus Kapitel 2 der Seminarfolien (Folien 27–39), ergänzt um den Stand, welche Operatoren heute noch wirken. Stand: 01.11.2026.
+Aus Kapitel 2 der Seminarfolien, ergänzt um den Stand, welche Operatoren heute noch wirken. Stand: 01.11.2026.
 
 Links aus den Folien haben die Prüfstufe **übernommen** (für dieses Repo nicht erneut geöffnet). Die beiden Quellen zum Operator-Stand sind **geöffnet am 01.11.2026**.
 

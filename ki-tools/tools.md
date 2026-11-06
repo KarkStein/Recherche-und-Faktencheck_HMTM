@@ -1,6 +1,6 @@
 # KI-Tools für die Recherche: alle mit Link
 
-Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand der Angaben zu Zugang und Preisen: 01.11.2026, ohne Gewähr. Spickzettel in der Fassung vom 03.11.2026.
+Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand der Angaben zu Zugang und Preisen: 01.11.2026, ohne Gewähr.
 
 **Prüfstufe:** Zugang und Preise wurden für den Spickzettel am 31.10.2026 auf den Seiten der Anbieter oder in datierten Berichten geprüft. Die Adressen sind von dort übernommen. Was davon offen ist, steht als „zu prüfen“ dabei.
 
