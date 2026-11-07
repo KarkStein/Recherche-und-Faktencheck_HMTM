@@ -1,6 +1,6 @@
-# Anleitung: Skills und Moby einsetzen
+# Skills und Moby: Überblick und Anleitung
 
-Ein Skill ist ein Ordner mit einer Datei `SKILL.md`: Anweisungen und Regeln für eine wiederkehrende Aufgabe. Oben in der Datei steht, wofür der Skill zuständig ist. Tools, die Skills kennen, laden ihn dann von selbst, sobald eure Frage passt. Alle anderen Tools bekommen denselben Text zum Einfügen. Programmieren müsst ihr dafür nichts.
+Ein Skill ist ein Text mit Anweisungen und Regeln für eine Aufgabe, die immer wiederkommt, etwa einen Text auf Fakten prüfen. Jeder Skill liegt in einem eigenen Ordner, in der Datei `SKILL.md`. Oben in der Datei steht, wofür der Skill zuständig ist. Tools, die Skills kennen, laden ihn dann von selbst, sobald eure Frage passt. Alle anderen Tools bekommen denselben Text zum Einfügen. Programmieren müsst ihr dafür nichts.
 
 [Moby](../agent/moby/) ist kein Skill, sondern ein Assistent mit eigenem Raum: ein Projekt, ein GPT oder ein Le-Chat-Agent, in dem jede Nachricht ein Text zum Prüfen ist. Wie ihr ihn einrichtet, steht bei Moby.
 
@@ -20,7 +20,9 @@ Faktencheck und Moby prüfen nach derselben Methode. Den Unterschied erklärt di
 
 ## Welche Datei wofür
 
-In jedem Skill-Ordner liegt die `SKILL.md`. Sie ist die Langfassung: zum Einfügen in einen Chat, als Datei für ein Projekt und als Inhalt des Pakets zum Hochladen. Der Kopf oben mit `name` und `description` stört beim Einfügen nicht.
+In jedem Skill-Ordner liegen die `SKILL.md` und eine README, die erklärt, was der Skill kann und wie ihr ihn fragt. Die Pakete zum Hochladen liegen gesammelt im Ordner [`zum-hochladen`](zum-hochladen/).
+
+Die `SKILL.md` ist die Langfassung: zum Einfügen in einen Chat, als Datei für ein Projekt und als Inhalt des Pakets zum Hochladen. Der Kopf oben mit `name` und `description` stört beim Einfügen nicht.
 
 | | Langfassung | Kurzfassung | Paket zum Hochladen |
 |---|---|---|---|
@@ -29,7 +31,7 @@ In jedem Skill-Ordner liegt die `SKILL.md`. Sie ist die Langfassung: zum Einfüg
 | Themenrecherche | [`SKILL.md`](themenrecherche/SKILL.md), 16.000 Zeichen | [3.600 Zeichen](themenrecherche/Themenrecherche_kurz.md) | [`themenrecherche.zip`](zum-hochladen/themenrecherche.zip) |
 | Expertenmeinungen | [`SKILL.md`](expertenmeinungen/SKILL.md), 22.000 Zeichen | [4.100 Zeichen](expertenmeinungen/Expertenmeinungen_kurz.md) | [`expertenmeinungen.zip`](zum-hochladen/expertenmeinungen.zip) |
 | PDB-Helfer | [`SKILL.md`](pdb-helfer/SKILL.md), 9.900 Zeichen | – | [`pdb-helfer.zip`](zum-hochladen/pdb-helfer.zip) |
-| Prompthelfer | [`SKILL.md`](prompthelfer/SKILL.md), 17.400 Zeichen | [5.400 Zeichen](prompthelfer/Prompthelfer_kurz.md) | [`prompthelfer.zip`](zum-hochladen/prompthelfer.zip) |
+| Prompthelfer | [`SKILL.md`](prompthelfer/SKILL.md), 17.000 Zeichen | [5.200 Zeichen](prompthelfer/Prompthelfer_kurz.md) | [`prompthelfer.zip`](zum-hochladen/prompthelfer.zip) |
 | Moby | [`Moby_Faktencheck.md`](../agent/moby/Moby_Faktencheck.md), 23.100 Zeichen | [4.600 Zeichen](../agent/moby/Moby_kurz.md) | – |
 
 Nehmt, wenn möglich, die Langfassung: Nur sie enthält die Quellenregeln mit Beispielen und alle Sonderfälle. Die Kurzfassung ist für Anweisungsfelder mit Zeichenlimit.
@@ -103,6 +105,7 @@ Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist fr
 - **Euer eigenes Material:** Rechercheordner, Protokolle, Dokumente als Dateien ins Projekt.
 - **Pressedatenbanken:** Was die Skills hinter Bezahlschranken nicht finden, sucht ihr mit dem PDB-Helfer in den Datenbanken eurer Bibliothek.
 - **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden. Mehr dazu in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md).
+- **Ein Ablauf statt eines einzelnen Prompts:** feste Schritte mit je eigenem Auftrag, etwa wichtige Fakten gründlich und Nebensachen schnell prüfen. Das braucht eine Plattform für solche Abläufe (Workflows).
 - **Euer eigener Skill:** Was ihr zum zweiten Mal genauso macht, ist ein Skill. Ordner anlegen, darin eine `SKILL.md` mit `name` und `description` im Kopf und euren Regeln darunter. Die Skills hier sind Vorlagen dafür, ein leeres Gerüst liegt beim [Prompthelfer](prompthelfer/Vorlage_Skill.md), und der Prompthelfer baut einen Skill auch mit euch.
 
 ## Erst testen, dann nutzen
@@ -131,13 +134,3 @@ Ob Skills in Gemini den gespeicherten Verlauf voraussetzen, ist nicht geklärt. 
 - GPT-Anweisungen höchstens 8.000 Zeichen, laut [OpenAI Developer Community, 04.06.2024](https://community.openai.com/t/how-can-i-increase-the-ceiling-for-gpt-instructions-beyond-8000-characters/801867), geöffnet am 01.11.2026. Ein neuerer Stand ist zu prüfen.
 - Agents in Le Chat ohne Abo, aber mit Konto, laut Mistral-Hilfe, geprüft am 31.10.2026. Skills im Ordnerformat: in einer Websuche am 03.11.2026 kein Beleg gefunden.
 - Programmier-Werkzeuge mit Skill-Ordnern, etwa die [Gemini CLI](https://geminicli.com/docs/cli/skills): übernommen, nicht geöffnet.
-
-## Für die Pflege
-
-Nach jeder Änderung an einer `SKILL.md` das Skript laufen lassen und die ZIP-Dateien mit committen:
-
-```
-python3 tools/skills_packen.py
-```
-
-Es prüft den Kopf jeder `SKILL.md` und baut die Pakete in `zum-hochladen/` neu. Mit `--pruefen` meldet es nur, ob ein Paket veraltet ist.

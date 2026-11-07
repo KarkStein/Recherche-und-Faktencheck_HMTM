@@ -7,7 +7,7 @@ Ein leeres Gerüst für einen eigenen Skill, zum Ausfüllen von Hand, ohne KI un
 1. Den Kasten unten kopieren.
 2. Alles in [eckigen Klammern] ersetzen. Abschnitte, die ihr nicht braucht, streichen.
 3. Unter rund 7.500 Zeichen bleiben, dann passt der Skill in jedes Anweisungsfeld.
-4. Einsetzen wie die anderen Skills, siehe [Anleitung](../ANLEITUNG.md).
+4. Einsetzen wie die anderen Skills, siehe [Anleitung](../README.md).
 5. Ausprobieren, Antwort ansehen, nachschärfen. Das ist das E in ROMANE.
 
 ```
