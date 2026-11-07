@@ -1,13 +1,34 @@
-# Suchen mit Google: Operatoren, erweiterte Suche, Web-Archiv
+# Suchen im Web: Suchmaschinen, Google, Web-Archiv
 
 Aus Kapitel 2 der Seminarfolien, ergänzt um den Stand, welche Operatoren heute noch wirken. Stand: 01.11.2026.
 
 Links aus den Folien haben die Prüfstufe **übernommen** (für dieses Repo nicht erneut geöffnet). Die beiden Quellen zum Operator-Stand sind **geöffnet am 01.11.2026**.
 
-## Die Standardsuche
+## Welche Suchmaschine?
+
+| Art | Anbieter | Was sie auszeichnet |
+|---|---|---|
+| eigener Index | [Google](https://www.google.de/), [Bing](https://www.bing.de/) | größter Index und höchste Marktanteile; finanziert über personalisierte Werbung, erfassen Daten der Nutzerinnen und Nutzer |
+| eigener Index | [Brave Search](https://search.brave.com/) | ohne Tracking, Personalisierung einstellbar; reichert den eigenen Index noch mit Google-Ergebnissen an |
+| eigener Index | [Kagi](https://kagi.com/welcome) | kostenpflichtig, dafür ohne Werbung und Tracking; Ranking anpassbar |
+| eigener Index im Aufbau | [Qwant](https://www.qwant.com/), [Ecosia](https://www.ecosia.org/) | aus Frankreich und Deutschland, Server in der EU, ohne Personalisierung und Tracking; bauen einen europäischen Index auf, ergänzen ihn aber noch mit Google und Bing |
+| Meta-Suchmaschine | [DuckDuckGo](https://duckduckgo.com/) | Datenschutz und kein Tracking; unklar, aus welchen Indizes die Ergebnisse stammen |
+| Meta-Suchmaschine | [MetaGer](https://metager.de/) | seit September 2024 nur noch kostenpflichtig |
+| Proxy-Suchmaschine | [Startpage](https://www.startpage.com/de) | Datenschutz und kein Tracking, nutzt den Index von Google |
+| Proxy-Suchmaschine | [Ekoru](https://ekoru.org/), [Good Search](https://good-search.org/) | spenden einen Teil der Werbeerlöse an Umweltprojekte |
+
+**Faustregeln:**
+
+- Google und Bing haben derzeit den umfassendsten Index.
+- Bei Proxy-Suchmaschinen wisst ihr, welchen Index sie nutzen, und könnt Personalisierung und Tracking weitgehend vermeiden.
+- Erwartet ihr nur wenige Treffer, lohnt sich eine Meta-Suchmaschine.
+- Oft lohnt eine zweite, kurze Suche mit einer Suchmaschine, die einen anderen Index nutzt.
+- Bringt die Websuche nichts, gibt es weitere Wege, etwa die [Datenbanken](datenbanken.md).
+
+## Die Standardsuche mit Google
 
 - Google ist nicht für objektive Recherche gebaut. Es rät, was für euch relevant sein könnte, und nutzt dafür auch Daten, die nicht in eurer Anfrage stehen, etwa Standort und frühere Suchen.
-- Über der Trefferliste versucht Google, die Frage selbst zu beantworten, mit Inhalten aus Wikipedia und anderen Seiten. Wollt ihr nur die Trefferliste, klickt auf **Mehr**, dann **Web**.
+- Über der Trefferliste bietet Google einen KI-Chat an, der versucht, die Frage selbst zu beantworten. Wollt ihr nur die Trefferliste, klickt auf **Mehr**, dann **Web**.
 - Gebt Schlüsselbegriffe ein statt ganzer Fragen: `Bergson Eröffnung` statt „Wann wurde das Bergson eröffnet?“
 - Google sucht automatisch nach Wortstämmen und toleriert Tippfehler. Wollt ihr das nicht: **Suchfilter**, **Alle Ergebnisse**, **Wortwörtlich**.
 - In den Suchfiltern legt ihr auch den Zeitraum fest (Format MM/DD/YYYY).

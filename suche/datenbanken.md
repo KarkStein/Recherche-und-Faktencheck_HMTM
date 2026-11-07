@@ -64,6 +64,7 @@ Operatoren und Syntax (unter anderem):
 
 - Zugang über den Stabi-Account: [emedia1.bsb-muenchen.de/han/faz-bibliotheksportal/](http://emedia1.bsb-muenchen.de/han/faz-bibliotheksportal/)
 - Die Suche bildet aus eurer Eingabe automatisch Wortstämme und Beugungsformen. Manchmal schießt sie dabei übers Ziel hinaus.
+- Alle Operatoren erklärt die [Suchhilfe des F.A.Z.-Archivs](https://fazarchiv.faz.net/suchhilfe).
 
 | Syntax | Bedeutung |
 |---|---|
@@ -78,12 +79,13 @@ Genios vermarktet dieselbe Datenbank unter zwei Namen. Sie enthält Zeitungen un
 - Genios über die Stadtbibliothek: [bib-muenchen.genios.de](http://bib-muenchen.genios.de/)
 - WISO über die Stabi: [emedia1.bsb-muenchen.de/han/wiso](http://emedia1.bsb-muenchen.de/han/wiso/)
 - Auf [genios.de](http://www.genios.de/) könnt ihr ohne Konto und kostenlos suchen. Erst das Abrufen von Artikeln kostet.
-- Syntax wie bei der F.A.Z.: `"a b"~N` für Nähe, `begriff#N` für mindestens N-mal.
+- Syntax wie bei der F.A.Z.: `"a b"~N` für Nähe, `begriff#N` für mindestens N-mal. Alle Operatoren und Felder stehen in der [Genios-Hilfe](https://www.gbi-genios.de/de/hilfe/genios/operatoren-und-datenbank-felder).
 
-### LexisNexis
+### LexisNexis (Nexis Uni)
 
 - Sehr viele internationale Publikationen, unter anderem Guardian, New York Times, Le Figaro, El País.
 - Zugang über den Stabi-Account: [emedia1.bsb-muenchen.de/han/nexisuni1](http://emedia1.bsb-muenchen.de/han/nexisuni1)
+- Alle Operatoren erklärt die [Hilfe von LexisNexis](https://www.lexisnexis.com/Casemapsuitesupport/xm/xm9.0/xm_search_operators_using.htm) (englisch).
 
 | Syntax | Bedeutung |
 |---|---|

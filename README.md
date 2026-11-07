@@ -2,7 +2,7 @@
 
 Material zum Seminar „Recherche und Faktencheck“ im Master Kulturjournalismus an der Hochschule für Musik und Theater München, 05. und 06.11.2026.
 
-Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: sechs KI-Skills zum Kopieren oder Hochladen, darunter ein Prompthelfer für eure eigenen Themen, dazu der Faktencheck-Assistent Moby, die Linklisten aus den Folien, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
+Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: sechs KI-Skills zum Kopieren oder Hochladen, darunter ein Prompthelfer für eure eigenen Themen, dazu der Faktencheck-Assistent Moby, die Linklisten aus den Folien, Anleitungen zum Prüfen von Texten und Bildern, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
 
 Stand: November 2026 · Lizenz: [CC BY 4.0](LICENSE)
 
@@ -13,7 +13,8 @@ Stand: November 2026 · Lizenz: [CC BY 4.0](LICENSE)
 | [skills/](skills/) | sechs Skills zum Kopieren oder Hochladen: [Faktencheck](skills/faktencheck/), [Herkunftscheck](skills/herkunftscheck/), [Themenrecherche](skills/themenrecherche/), [Expertenmeinungen](skills/expertenmeinungen/), [PDB-Helfer](skills/pdb-helfer/), [Prompthelfer](skills/prompthelfer/) (Prompts für eigene Themen); dazu die [Anleitung](skills/ANLEITUNG.md) | 2–5 |
 | [agent/](agent/moby/) | [Moby](agent/moby/), der Faktencheck-Assistent für Projekt, GPT oder Le-Chat-Agent | 5b |
 | [ki-tools/](ki-tools/) | [Spickzettel](ki-tools/spickzettel.pdf) als PDF, [alle Tools mit Link](ki-tools/tools.md), [Neue KI-Tools finden und prüfen](ki-tools/neue-tools-finden.md) | 4, 6 |
-| [suche/](suche/) | [Google: Operatoren, erweiterte Suche, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md) | 2, 3 |
+| [suche/](suche/) | [Ergebnisse dokumentieren, mit Rechercheprotokoll](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
+| [faktencheck/](faktencheck/) | [Texte prüfen: das Handwerk](faktencheck/text-pruefen.md); [Bilder prüfen und Geolokation](faktencheck/bilder-pruefen.md) | 5 |
 | [prompts/](prompts/) | [Von der Frage zum Auftrag](prompts/recherche-auftrag.md), [KI-Antworten prüfen](prompts/ki-antworten-pruefen.md) | 4 |
 | [links/](links/) | [Recherche-Links zu Kulturthemen](links/kultur.md) | Anhang |
 

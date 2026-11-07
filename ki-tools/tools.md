@@ -39,6 +39,18 @@ Das Pult aus Kapitel 4: Mit diesen vier Fragen ordnet ihr jedes Tool ein, auch n
 3. **Auftrag:** Wie strukturiert ist euer Input? Frage, Prompt oder Skill.
 4. **Selbstständigkeit:** Wer bestimmt den nächsten Schritt, und verändert die KI etwas? Wenn sie handelt, nur mit eurer Freigabe.
 
+## Eigene Daten: hochladen oder verbinden
+
+Aus Kapitel 4 der Seminarfolien, Prüfstufe **übernommen**.
+
+- **Hochladen:** Eine Kopie geht an den Anbieter, etwa eine PDF im Chat, im Projekt oder im Gemini Notebook. Das Modell liest nur, was ihr hineingebt.
+- **Verbinden:** Integrationen geben dem Modell Zugriff auf einen Dienst wie Google Drive, Mail, Kalender oder GitHub. Bei Claude heißen sie Konnektoren, bei ChatGPT Apps. Das geht schon im normalen Chat und braucht immer ein Konto. Vorsicht vor versteckten Anweisungen in Mails.
+- **Für beides gilt:** Nur hochladen und verbinden, was auch öffentlich sein dürfte.
+
+**MCP, der Stecker für KI:** ein offener Standard, mit dem KI-Anwendungen Daten, Werkzeuge und Abläufe anderer Systeme anschließen. Ein Dienst baut einmal einen MCP-Server, dann passt er in Claude, ChatGPT, Gemini, Copilot und andere. Im November 2024 von Anthropic vorgestellt, seit Dezember 2025 bei der Linux Foundation. Ein Beispiel: Mit einem MCP-Server für das Guardian-Archiv durchsucht ein KI-Modell 1,9 Millionen Artikel, ein Prototyp, nicht vom Guardian selbst ([Nieman Lab, 01.07.2025](https://www.niemanlab.org/2025/07/a-new-tool-lets-your-favorite-ai-model-talk-with-1-9-million-articles-in-the-guardian/)). **Vorsicht:** Ein MCP-Server ist fremder Code mit Zugang zu euren Daten, und in seinen Beschreibungen lassen sich Anweisungen verstecken. Wie gefälschte Server auftauchen, steht in [Neue KI-Tools finden](neue-tools-finden.md).
+
+**Website-Chatbots** bei Onlineshops, Banken oder Behörden suchen oft wie ein Notebook in einem festen Bestand: FAQ, Hilfeseiten, Merkblätter. Den Bestand wählt aber der Betreiber aus, nicht ihr. Ihr seht die Quellen meist nicht, und der Bot vertritt die Interessen des Betreibers.
+
 ## Alle Tools
 
 ### Suchen mit KI-Antwort
