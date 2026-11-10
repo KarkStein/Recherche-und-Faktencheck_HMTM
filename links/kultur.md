@@ -1,8 +1,8 @@
 # Recherche-Links zu Kulturthemen
 
-Aus dem Anhang der Seminarfolien. Stand: 01.11.2026.
+Aus dem Anhang der Seminarfolien, ergänzt um einige Datenbanken. Stand: 10.11.2026.
 
-**Prüfstufe aller Links: übernommen.** Sie stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/).
+**Prüfstufe: übernommen.** Die Links stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/). Ausnahme: Die mit **neu** markierten Einträge sind hinzugekommen und **geöffnet am 07. oder 10.11.2026**.
 
 „via Munzinger“ heißt: Zugang über die Munzinger-Datenbank mit eurem Ausweis der Stadtbibliothek oder der Stabi, siehe [Datenbanken](../suche/datenbanken.md#munzinger). Die Module unterscheiden sich je nach Zugang etwas.
 
@@ -24,6 +24,7 @@ Aus dem Anhang der Seminarfolien. Stand: 01.11.2026.
 | [Grimm'sches Wörterbuch](https://dwb.uni-trier.de/) | Deutsches Wörterbuch von Jacob und Wilhelm Grimm |
 | [BDSL](http://www.bdsl-online.de/) | Bibliographie der deutschen Sprach- und Literaturwissenschaft |
 | [DWDS](http://www.dwds.de/) | der deutsche Wortschatz von 1600 bis heute |
+| [Kalliope](https://kalliope-verbund.info/) | Nachlässe, Briefe und Autographen in Archiven und Bibliotheken · **neu** |
 | [Voyant Tools](https://voyant-tools.org/) | Lese- und Analysewerkzeuge für Texte |
 | [Duden Sprachwissen](https://online.munzinger.de/publikation/duden_sprachwissen) | via Munzinger |
 
@@ -66,6 +67,7 @@ Zitatsammlungen sind Findehilfen, keine Belege. Ein Zitat prüft ihr bis zur Ori
 | [Opera Guide](https://opera-guide.ch/operas/) | Opernverzeichnis |
 | [Musicallexikon](http://www.musicallexikon.eu/) | Musical-Verzeichnis |
 | [IMDb](http://www.imdb.com/) | Filme, Serien, Besetzung und Team |
+| [filmportal.de](https://www.filmportal.de/) | deutsche Filme und Personen, vom Deutschen Filminstitut & Filmmuseum · **neu** |
 | [epd Film](http://www.epd-film.de/) | Filmbesprechungen des Evangelischen Pressedienstes |
 | [artechock](http://www.artechock.de/) | Filmbesprechungen |
 | [Filmdienst](https://online.munzinger.de/publikation/film) | Filmkritiken, via Munzinger |
@@ -81,12 +83,16 @@ Zitatsammlungen sind Findehilfen, keine Belege. Ein Zitat prüft ihr bis zur Ori
 | [Designlexikon](http://www.designlexikon.net/) | internationales Design-Lexikon |
 | [museen.de](https://museen.de/) | Museumsverzeichnis Deutschland |
 | [Museums of the World](https://museu.ms/) | weltweites Museumsverzeichnis |
+| [Lost Art-Datenbank](https://www.lostart.de/) | Such- und Fundmeldungen zu NS-Raubgut und Kriegsverlusten · **neu** |
+| [Proveana](https://www.proveana.de/) | Datenbank der Provenienzforschung: NS-Raubgut, Kriegsverluste, Entziehungen in SBZ und DDR, Sammlungsgut aus kolonialen Kontexten · **neu** |
 
 ## Musik, Audio, Video
 
 | Angebot | Was ihr dort findet |
 |---|---|
 | [AllMusic](http://www.allmusic.com/) | Musikdatenbank, englisch |
+| [MusicBrainz](https://musicbrainz.org/) | offene Musik-Enzyklopädie: Künstler, Veröffentlichungen, Aufnahmen · **neu** |
+| [miz.org](https://miz.org/) | Deutsches Musikinformationszentrum: Zahlen und Studien zum Musikleben, Institutionen · **neu** |
 | [klassik.com Lexikon](https://magazin.klassik.com/lexikon/list.cfm?letter=A) | Lexikon zur klassischen Musik |
 | [IMSLP](https://imslp.org/) | Noten-Archiv |
 | [Volkslieder-Verzeichnis](https://ingeb.org/Volksong.html) | Volkslieder mit Texten |

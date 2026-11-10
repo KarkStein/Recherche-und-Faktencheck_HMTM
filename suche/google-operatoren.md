@@ -2,16 +2,16 @@
 
 Aus Kapitel 2 der Seminarfolien, ergänzt um den Stand, welche Operatoren heute noch wirken. Stand: 01.11.2026.
 
-Links aus den Folien haben die Prüfstufe **übernommen** (für dieses Repo nicht erneut geöffnet). Die beiden Quellen zum Operator-Stand sind **geöffnet am 01.11.2026**.
+Links aus den Folien haben die Prüfstufe **übernommen** (für dieses Repo nicht erneut geöffnet). Die beiden Quellen zum Operator-Stand sind **geöffnet am 01.11.2026**. Die Angaben zu Brave, Qwant und Ecosia sind auf den Seiten der Anbieter **geöffnet am 07.11.2026** und korrigiert.
 
 ## Welche Suchmaschine?
 
 | Art | Anbieter | Was sie auszeichnet |
 |---|---|---|
 | eigener Index | [Google](https://www.google.de/), [Bing](https://www.bing.de/) | größter Index und höchste Marktanteile; finanziert über personalisierte Werbung, erfassen Daten der Nutzerinnen und Nutzer |
-| eigener Index | [Brave Search](https://search.brave.com/) | ohne Tracking, Personalisierung einstellbar; reichert den eigenen Index noch mit Google-Ergebnissen an |
+| eigener Index | [Brave Search](https://search.brave.com/) | ohne Tracking, Personalisierung einstellbar; Ergebnisse laut Brave standardmäßig ganz aus dem eigenen Index, Google-Ergebnisse nur, wenn man sie selbst einschaltet |
 | eigener Index | [Kagi](https://kagi.com/welcome) | kostenpflichtig, dafür ohne Werbung und Tracking; Ranking anpassbar |
-| eigener Index im Aufbau | [Qwant](https://www.qwant.com/), [Ecosia](https://www.ecosia.org/) | aus Frankreich und Deutschland, Server in der EU, ohne Personalisierung und Tracking; bauen einen europäischen Index auf, ergänzen ihn aber noch mit Google und Bing |
+| eigener Index im Aufbau | [Qwant](https://www.qwant.com/), [Ecosia](https://www.ecosia.org/) | aus Frankreich und Deutschland, Server in der EU, ohne Personalisierung und Tracking; bauen über ihr Gemeinschaftsunternehmen EUSP einen europäischen Index auf (Staan), ergänzen ihn aber noch mit Google und Bing |
 | Meta-Suchmaschine | [DuckDuckGo](https://duckduckgo.com/) | Datenschutz und kein Tracking; unklar, aus welchen Indizes die Ergebnisse stammen |
 | Meta-Suchmaschine | [MetaGer](https://metager.de/) | seit September 2024 nur noch kostenpflichtig |
 | Proxy-Suchmaschine | [Startpage](https://www.startpage.com/de) | Datenschutz und kein Tracking, nutzt den Index von Google |
