@@ -2,7 +2,7 @@
 
 Material zum Seminar „Recherche und Faktencheck“ im Master Kulturjournalismus an der Hochschule für Musik und Theater München, 05. und 06.11.2026.
 
-Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: sechs KI-Skills zum Kopieren oder Hochladen, darunter ein Prompthelfer für eure eigenen Themen, dazu der Faktencheck-Assistent Moby, Anleitungen zum Prüfen von Texten und Bildern, Linklisten mit Werkzeugen und Lesetipps, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
+Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: die Folien als PDF, sechs KI-Skills zum Kopieren oder Hochladen, darunter ein Prompthelfer für eure eigenen Themen, dazu der Faktencheck-Assistent Moby, Anleitungen zum Prüfen von Texten und Bildern, Linklisten mit Werkzeugen und Lesetipps, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
 
 Diese Seite liegt auf GitHub, einer Plattform für Textdateien mit Änderungsverlauf. Ihr braucht dafür kein Konto: Lesen, Kopieren und Herunterladen geht ohne. Wer mit GitHub nichts anfangen will, nimmt das [Gesamtpaket](gesamtpaket/README.md): alles in einer ZIP-Datei, lesbar im Browser, auch ohne Internet.
 
@@ -19,9 +19,10 @@ Stand: 10.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
 | [suche/](suche/README.md) | [Ergebnisse dokumentieren, mit Rechercheprotokoll](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
 | [faktencheck/](faktencheck/README.md) | [Texte prüfen: das Handwerk](faktencheck/text-pruefen.md); [Bilder prüfen und Geolokation](faktencheck/bilder-pruefen.md) | 5 |
 | [links/](links/README.md) | [Werkzeuge nach Kapiteln](links/werkzeuge.md), [Lesetipps: Artikel, Podcasts, Studien, Bücher](links/lesetipps.md), [Recherche-Links zu Kulturthemen](links/kultur.md) | alle |
+| [folien/](folien/README.md) | die [Seminarfolien als PDF](folien/Folien_Recherche_und_Faktencheck.pdf), korrigierte Fassung, ohne Sprechernotizen | alle |
 | [gesamtpaket/](gesamtpaket/README.md) | alles in einer ZIP-Datei zum Herunterladen und Weitergeben | – |
 
-Die Kapitel sind die der Seminarfolien. Jeder Ordner hat eine eigene Seite, die erklärt, was darin liegt.
+Die Kapitel sind die der [Seminarfolien](folien/README.md). Jeder Ordner hat eine eigene Seite, die erklärt, was darin liegt.
 
 ## In zwei Minuten loslegen
 

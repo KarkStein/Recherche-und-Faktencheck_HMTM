@@ -8,7 +8,7 @@ Darin:
 - Skills_zum_Kopieren/      jeder Skill und Moby als .txt
 - Skills_zum_Hochladen/     die Pakete aus skills/zum-hochladen/
 - Fuer_KI-Chats/            alle Seiten als eine Markdown-Datei, ohne Skill-Texte
-- Spickzettel.pdf, LIESMICH.txt
+- Folien_Recherche_und_Faktencheck.pdf, Spickzettel.pdf, LIESMICH.txt
 
 Aufruf aus dem Hauptordner des Repos:
 
@@ -42,6 +42,7 @@ ZEITSTEMPEL = (2026, 1, 1, 0, 0, 0)
 # Seiten der Leseversion in dieser Reihenfolge: Gruppe, dann (Datei, Titel im Inhaltsverzeichnis)
 GRUPPEN = [
     ("Start", [("README.md", "Start")]),
+    ("Folien", [("folien/README.md", "Seminarfolien")]),
     ("Skills", [
         ("skills/README.md", "Überblick und Anleitung"),
         ("skills/faktencheck/README.md", "Faktencheck"),
@@ -112,6 +113,7 @@ UMLEITUNG = {
 NICHT_IM_PAKET = {"wartung/README.md"}
 
 SPICKZETTEL = "ki-tools/spickzettel.pdf"
+FOLIEN = "folien/Folien_Recherche_und_Faktencheck.pdf"
 
 
 def seiten():
@@ -178,6 +180,8 @@ def ziel_aufloesen(link: str, von: str, warnungen: list):
             return "anker", f"#{text_id(datei)}"
     if voll == SPICKZETTEL:
         return "datei", "Spickzettel.pdf"
+    if voll == FOLIEN:
+        return "datei", "Folien_Recherche_und_Faktencheck.pdf"
     if voll.startswith("skills/zum-hochladen/") and voll.endswith(".zip"):
         return "datei", "Skills_zum_Hochladen/" + posixpath.basename(voll)
     warnungen.append(f"Link ohne Ziel im Paket: {link} (in {von})")
@@ -311,7 +315,7 @@ def html_bauen(stand: str, warnungen: list) -> str:
         for pfad, titel in eintraege:
             nav.append(f'<li><a href="#{seiten_id(pfad)}">{html.escape(titel)}</a></li>')
         nav.append("</ul>")
-    nav.append('<h3>Dateien</h3><ul><li><a href="Spickzettel.pdf">Spickzettel (PDF)</a></li></ul></details>')
+    nav.append('<h3>Dateien</h3><ul><li><a href="Folien_Recherche_und_Faktencheck.pdf">Seminarfolien (PDF)</a></li><li><a href="Spickzettel.pdf">Spickzettel (PDF)</a></li></ul></details>')
 
     hinweis = f"""
 <div class="hinweis" id="ueber-diese-datei">
@@ -441,6 +445,10 @@ Fuer_KI-Chats/
   Der ganze Werkzeugkasten als eine Textdatei, ohne die Skill-Texte.
   In einen KI-Chat hochladen, dann beantwortet er Fragen dazu.
 
+Folien_Recherche_und_Faktencheck.pdf
+  Die Seminarfolien, ohne Sprechernotizen. Fotos und Screenshots
+  Dritter sind von der freien Lizenz ausgenommen.
+
 Spickzettel.pdf
   Der Spickzettel zu KI-Tools aus dem Seminar.
 
@@ -487,6 +495,7 @@ def paket_bauen():
     eintraege = [
         ("LIESMICH.txt", liesmich(stand).encode("utf-8")),
         ("Werkzeugkasten.html", leseversion.encode("utf-8")),
+        ("Folien_Recherche_und_Faktencheck.pdf", (WURZEL / FOLIEN).read_bytes()),
         ("Spickzettel.pdf", (WURZEL / SPICKZETTEL).read_bytes()),
         ("Fuer_KI-Chats/Werkzeugkasten_fuer_KI.md", ki_datei_bauen(stand, warnungen).encode("utf-8")),
     ]

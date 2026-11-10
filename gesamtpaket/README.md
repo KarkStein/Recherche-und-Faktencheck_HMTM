@@ -17,6 +17,7 @@ Hier liegt der ganze Werkzeugkasten als eine ZIP-Datei: zum Weitergeben, zum Les
 | `Skills_zum_Kopieren/` | jeder Skill und Moby als Textdatei, Lang- und Kurzfassung |
 | `Skills_zum_Hochladen/` | die Pakete für Claude und Gemini |
 | `Fuer_KI-Chats/` | alle Seiten als eine Textdatei, ohne die Skill-Texte: in einen KI-Chat hochladen, dann beantwortet er Fragen zum Werkzeugkasten |
+| `Folien_Recherche_und_Faktencheck.pdf` | die Seminarfolien, ohne Sprechernotizen |
 | `Spickzettel.pdf` | der Spickzettel zu KI-Tools |
 | `LIESMICH.txt` | diese Anleitung in Kurzform |
 

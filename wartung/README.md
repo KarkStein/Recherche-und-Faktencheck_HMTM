@@ -5,7 +5,7 @@ Dieser Ordner ist für die Pflege des Repos. Zum Lesen und Nutzen des Werkzeugka
 | Datei | Was sie tut |
 |---|---|
 | [skills_packen.py](skills_packen.py) | baut aus jeder `SKILL.md` das Paket in `skills/zum-hochladen/` und prüft vorher den Kopf der Datei (`name`, `description`) |
-| [gesamtpaket_bauen.py](gesamtpaket_bauen.py) | baut das [Gesamtpaket](../gesamtpaket/README.md): alle Seiten als eine HTML-Datei, die Skills als Textdateien, eine Datei für KI-Chats, die Pakete und den Spickzettel, zusammen in einer ZIP-Datei |
+| [gesamtpaket_bauen.py](gesamtpaket_bauen.py) | baut das [Gesamtpaket](../gesamtpaket/README.md): alle Seiten als eine HTML-Datei, die Skills als Textdateien, eine Datei für KI-Chats, die Pakete, die Folien und den Spickzettel, zusammen in einer ZIP-Datei |
 
 ## Nach jeder Änderung
 
@@ -17,6 +17,8 @@ python3 wartung/gesamtpaket_bauen.py
 ```
 
 Danach die geänderten ZIP-Dateien mit committen. Mit `--pruefen` melden beide Skripte nur, ob etwas veraltet ist, und ändern nichts. Das Gesamtpaket braucht das Programm pandoc, das die Seiten in HTML umwandelt.
+
+**Neue Fassung der Folien:** Das PDF in `folien/` entsteht aus der PowerPoint-Datei, ohne Sprechernotizen, ausgeblendete Folien fallen weg. In PowerPoint: Datei, Exportieren, PDF, unter Optionen „Folien“ wählen. Oder mit LibreOffice: `soffice --headless --convert-to pdf Datei.pptx`. Danach die Seitenzahlen der Kapitel in `folien/README.md` prüfen und das Gesamtpaket neu bauen.
 
 **Neue Seite oder neuer Skill:** Im Gesamtpaket erscheinen sie erst, wenn sie in einer der Listen oben in `gesamtpaket_bauen.py` stehen. Das Skript meldet Dateien, die in keiner Liste stehen, und Links, die im Paket ins Leere führen.
 
