@@ -1,6 +1,6 @@
 # Recherche-Links zu Kulturthemen
 
-Aus dem Anhang der Seminarfolien.
+Aus dem Anhang der Seminarfolien. Stand: 01.11.2026.
 
 **Prüfstufe aller Links: übernommen.** Sie stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/).
 

@@ -6,8 +6,8 @@ wie der Skill, darin liegt SKILL.md.
 
 Aufruf aus dem Hauptordner des Repos:
 
-    python3 tools/skills_packen.py           # Pakete neu bauen
-    python3 tools/skills_packen.py --pruefen # nur prüfen, ob alles aktuell ist
+    python3 wartung/skills_packen.py           # Pakete neu bauen
+    python3 wartung/skills_packen.py --pruefen # nur prüfen, ob alles aktuell ist
 
 Vorher prüft das Skript den Kopf jeder SKILL.md:
 - name: klein, Ziffern und Bindestriche, höchstens 64 Zeichen, gleich dem Ordnernamen

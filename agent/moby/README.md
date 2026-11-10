@@ -1,10 +1,8 @@
 # Moby zum Mitnehmen
 
-Moby ist ein Faktencheck-Assistent. Er prüft einen Text in vier Schritten (Fakten herausziehen, in Aspekte zerlegen, prüfen, Bericht) und liefert einen Bericht mit Status, Quellen und Korrekturvorschlägen. Das ist dieselbe Methode wie im Seminar, Kapitel 5b.
+Moby ist ein Faktencheck-Assistent. Er prüft einen Text in vier Schritten (Fakten herausziehen, in Aspekte zerlegen, prüfen, Bericht) und liefert einen Bericht mit Status, Quellen und Korrekturvorschlägen. Das ist dieselbe Methode wie im Seminar, Kapitel 5.
 
 Moby ist kein Skill, sondern ein Assistent mit eigenem Raum. Ihr richtet ihn einmal als Projekt, GPT oder Le-Chat-Agent ein, und dort ist jede Nachricht ein Text zum Prüfen. Wollt ihr dieselbe Prüfung in einem normalen Chat, der von selbst erkennt, wann geprüft werden soll, nehmt den Skill [Faktencheck](../../skills/faktencheck/). Den Unterschied erklärt die [Seite zum Faktencheck](../../skills/faktencheck/README.md#faktencheck-oder-moby).
-
-Diese Fassung beruht auf dem Moby, den Florian in der Redaktion nutzt, und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft.
 
 Stand: 03.11.2026
 
@@ -23,7 +21,7 @@ Ein KI-Assistent, der **im Web suchen** kann. Ohne Websuche erfindet ein Modell 
 
 Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der [Tool-Liste](../../ki-tools/tools.md)).
 
-## So geht's
+## So richtet ihr Moby ein
 
 **Überall, ohne Einrichtung**
 1. Neuen Chat öffnen, Websuche einschalten, falls es dafür einen Schalter gibt.
@@ -43,39 +41,29 @@ Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopier
 
 **Als GPT in ChatGPT:** Das Anweisungsfeld ist auf 8.000 Zeichen begrenzt, also die Kurzfassung nehmen. Ob ihr ohne Abo eigene GPTs anlegen könnt, ist nicht geprüft.
 
-**In Gemini:** Gems werden am 17.11.2026 schreibgeschützt und am 17.12.2026 gelöscht. Einen festen Raum wie ein Gem gibt es dann nicht mehr. Nehmt in Gemini den Skill [Faktencheck](../../skills/faktencheck/), wie ihr ihn einrichtet, steht in der [Anleitung](../../skills/ANLEITUNG.md).
+**In Gemini:** Gems werden am 17.11.2026 schreibgeschützt und am 17.12.2026 gelöscht. Einen festen Raum wie ein Gem gibt es dann nicht mehr. Nehmt in Gemini den Skill [Faktencheck](../../skills/faktencheck/), wie ihr ihn einrichtet, steht in der [Anleitung](../../skills/README.md).
 
-## Den Bericht lesen
+Woher die Angaben zu den Tools stammen, steht unter [Belege für die Angaben zu den Tools](../../skills/README.md#belege-für-die-angaben-zu-den-tools).
+
+## Das Ergebnis lesen
 
 - Fangt bei den kritischen Befunden an.
 - Öffnet die Links selbst. Steht „Snippet“ oder „Nur Snippet-Basis“ dabei, hat Moby nur den Suchtreffer gesehen, nicht die Seite.
 - Ein ✅ heißt: zwei unabhängige Quellen gefunden. Es heißt nicht, dass ihr nicht mehr nachschauen müsst.
 - Die Verantwortung für euren Text bleibt bei euch.
 
-## Was anders ist als in der Redaktionsfassung
+## Grenzen
+
+- **Erst testen:** Moby läuft nicht in jedem Tool gleich gut. Probiert ihn zuerst mit einem Text aus, dessen Fehler ihr kennt, etwa dem Übungstext aus Kapitel 5. Mehr dazu unter [Erst testen, dann nutzen](../../skills/README.md#erst-testen-dann-nutzen).
+- **Ein Status für zwei Fälle:** ❌ heißt bei Moby falsch oder nicht belegt. Wer das getrennt braucht, nimmt den [Faktencheck](../../skills/faktencheck/).
+- **Keine Bezahlschranken:** Moby umgeht sie nicht. Was er nicht findet, sucht ihr in der Pressedatenbank eurer Bibliothek, Suchstrings dafür baut der [PDB-Helfer](../../skills/pdb-helfer/).
+- **Besser machen:** mit einer eigenen Quellenliste, eurem Material als Dateien im Projekt oder angebundenen Datenbanken. Wie, steht unter [Das würde die Skills noch besser machen](../../skills/README.md#das-würde-die-skills-noch-besser-machen).
+
+## Herkunft
+
+Diese Fassung beruht auf dem Moby, den Florian in der Redaktion nutzt, und ist so umgebaut, dass sie auf verschiedenen Plattformen läuft. Was anders ist:
 
 - **Kein Plattformbezug.** Die Redaktionsfassung ist auf eine bestimmte KI-Plattform und deren Werkzeuge eingestellt (etwa wie viele Seiten pro Antwort geöffnet werden dürfen). Hier steht stattdessen: Wenn du Seiten öffnen kannst, öffne zuerst die Quellen der wichtigsten Fakten.
 - **Quellenregeln eingebaut.** In der Redaktion hängt ein eigenes Quellenregelwerk als Datei an. Hier steht eine Kurzfassung direkt im Prompt.
 - **Keine Ausschlussliste mit Namen.** Das Regelwerk der Redaktion nennt Medien, die nie als Quelle zählen. In dieser Fassung stehen nur die Muster, nach denen eine Quelle ausgeschlossen wird.
 - **Neu:** ein Check zu Beginn, ob Websuche und Datum verfügbar sind, und ein Hinweis zu Grauzonen und absoluten Aussagen.
-
-## Das würde Moby noch besser machen
-
-- **Eine eigene, gepflegte Quellenliste:** welche Quellen ihr zuerst nehmt, welche nie. Baut sie für euer Fachgebiet und hängt sie als Datei an.
-- **Euer eigenes Material:** Rechercheordner, Protokolle, Gesprächsnotizen, Dokumente als Dateien ins Projekt. Moby prüft dann zuerst darin.
-- **Pressedatenbanken und Archive:** Moby kommt nicht hinter Bezahlschranken. Was er nicht findet, sucht ihr in der Pressedatenbank eurer Bibliothek.
-- **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden, etwa Statistik oder Open-Data-Portale. Dann prüft der Agent gegen Primärquellen statt gegen Suchtreffer.
-- **Ein Workflow statt eines einzelnen Prompts:** feste Schritte mit je eigenem Auftrag, etwa wichtige Fakten gründlich und Nebensachen schnell prüfen. Das braucht eine Plattform für Workflows.
-
-## Erst testen
-
-Moby läuft nicht in jedem Tool gleich gut. Probiert ihn zuerst mit einem Text aus, dessen Fehler ihr kennt, etwa dem Übungstext aus Kapitel 5b. Mehr dazu in der [Anleitung](../../skills/ANLEITUNG.md#erst-testen-dann-nutzen).
-
-## Belege für die Angaben zu den Tools
-
-- Claude Free: Websuche und bis zu fünf Projekte, laut [claude.com/pricing](https://claude.com/pricing), geöffnet am 31.10.2026.
-- ChatGPT-Projekte für Free-Nutzer seit September 2025, laut [promptoptimizer.tools, 23.07.2026](https://promptoptimizer.tools/blog/how-to-use-chatgpt-projects), Drittquelle, geöffnet am 01.11.2026.
-- GPT-Anweisungen höchstens 8.000 Zeichen, laut [OpenAI Developer Community, 04.06.2024](https://community.openai.com/t/how-can-i-increase-the-ceiling-for-gpt-instructions-beyond-8000-characters/801867), geöffnet am 01.11.2026. Ein neuerer Stand ist zu prüfen.
-- Gems ab 17.11.2026 schreibgeschützt, ab 17.12.2026 entfernt, laut [Gemini-Hilfe](https://support.google.com/gemini/answer/18560919?hl=en), geöffnet am 03.11.2026.
-- Agents in Le Chat ohne Abo, aber mit Konto, laut Mistral-Hilfe, geprüft am 31.10.2026.
-- MCP: seit 09.12.2025 Projekt der Agentic AI Foundation unter dem Dach der Linux Foundation, laut [MCP-Blog](https://blog.modelcontextprotocol.io/posts/2025-12-09-mcp-joins-agentic-ai-foundation/), geöffnet am 01.11.2026.

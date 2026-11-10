@@ -70,7 +70,7 @@ Sag, wenn eine Frage mit den Dateien nicht zu beantworten ist.
 
 Testet die dritte Regel mit einer Fangfrage, deren Antwort nicht in euren Dateien steht. Gute Antwort: „Dazu steht nichts in den Dokumenten.“
 
-Fertige, längere Anweisungen für wiederkehrende Aufgaben findet ihr unter [skills/](../skills/). Wie ihr sie in Chat, Projekt, als Skill oder Agent einsetzt, steht in der [Anleitung](../skills/ANLEITUNG.md).
+Fertige, längere Anweisungen für wiederkehrende Aufgaben findet ihr unter [skills/](../skills/). Wie ihr sie in Chat, Projekt, als Skill oder Agent einsetzt, steht in der [Anleitung](../skills/README.md).
 
 ## Ein mögliches Regelwerk: ROMANE
 
