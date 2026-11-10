@@ -460,15 +460,6 @@ IN ZWEI MINUTEN LOSLEGEN
 Eigenes Thema? Dasselbe mit Prompthelfer.txt.
 
 
-SPIELREGELN FÜR KI
-1. Ein Konto ist freiwillig. Jede Übung geht auch ohne.
-2. Keine Namen, Telefonnummern oder anderen persönlichen Daten in Prompts.
-3. Nur Dokumente hochladen, die schon öffentlich zugänglich sind.
-4. Wo es geht: Verlauf aus, Training abwählen.
-5. Jeder Link wird geöffnet. Was nicht geöffnet wurde, gilt als nicht verifiziert.
-6. KI-Text, den ihr übernehmt, kennzeichnet ihr.
-
-
 AKTUELLE FASSUNG
 {REPO_URL}
 """

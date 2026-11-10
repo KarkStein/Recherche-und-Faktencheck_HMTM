@@ -63,8 +63,4 @@ Testet das mit einer Suche, deren Treffer ihr ungefähr kennt. Mehr dazu in der 
 
 ## Herkunft
 
-Diese Fassung beruht auf dem Suchstring-Assistenten, den Florian in der Redaktion nutzt, umgebaut für den Bibliothekszugang. Was anders ist:
-
-- **Nur die Operatoren von der Seminarfolie.** Die Redaktion arbeitet mit einem internen System und weiteren Feldcodes, etwa für Titel, Publikation oder Datum. Ob die im Bibliothekszugang funktionieren, ist nicht geprüft. Zeitraum, Ressort und Artikeltyp stellt ihr deshalb in der Suchmaske ein.
-- **Keine Quellenlisten und Publikationscodes** der Redaktion.
-- **Neu:** Umrechnung für F.A.Z., Genios/WISO und LexisNexis, Erklärung jedes Bausteins, funktioniert auch ohne Websuche.
+Beruht auf dem Suchstring-Assistenten, den Florian in der Redaktion nutzt, umgebaut für den Bibliothekszugang. Er kennt nur die Operatoren von der Seminarfolie, Zeitraum, Ressort und Artikeltyp stellt ihr in der Suchmaske ein.

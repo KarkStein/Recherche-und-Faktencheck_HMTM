@@ -54,7 +54,7 @@ Mit „schnell“ bekommt ihr sofort einen Entwurf. Ohne fragt er erst kurz nach
 ## Grenzen
 
 - **Ein guter Prompt macht gute Antworten wahrscheinlicher, nicht sicher.** Öffnet die Quellen selbst, bevor ihr etwas übernehmt. Wie, steht in [KI-Antworten prüfen](../../prompts/ki-antworten-pruefen.md).
-- **Keine persönlichen Daten** in Prompts, nur öffentliches Material (Spielregeln 2 und 3).
+- **Keine persönlichen Daten** in Prompts, nur öffentliches Material.
 - **Der Prompthelfer ist selbst eine KI.** Was er über Funktionen einzelner Tools sagt, kann veraltet sein.
 
 ## Herkunft

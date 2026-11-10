@@ -56,7 +56,7 @@ Format: [Gliederung, die bei jedem Lauf gleich bleibt, etwa: Kurzbefund, Tabelle
 
 ## Regeln einmal aufschreiben: das Projekt
 
-Gebt ihr denselben Auftrag öfter, speichert die Regeln. In Claude heißt das Projekt, in ChatGPT ebenfalls Projekt, in Le Chat Agent. In Gemini hieß es Gem; Gems werden ab dem 17.11.2026 durch Skills ersetzt. Ein Projekt bündelt Anweisungen und Dateien. Jeder neue Chat im Projekt kennt beide.
+Gebt ihr denselben Auftrag öfter, speichert die Regeln. In Claude heißt das Projekt, in ChatGPT ebenfalls Projekt, in Le Chat Agent. In Gemini hieß es Gem, an seine Stelle treten Skills. Ein Projekt bündelt Anweisungen und Dateien. Jeder neue Chat im Projekt kennt beide.
 
 Vorlage für die Anweisungen eines Recherche-Projekts:
 
@@ -69,8 +69,6 @@ Sag, wenn eine Frage mit den Dateien nicht zu beantworten ist.
 ```
 
 Testet die dritte Regel mit einer Fangfrage, deren Antwort nicht in euren Dateien steht. Gute Antwort: „Dazu steht nichts in den Dokumenten.“
-
-Fertige, längere Anweisungen für wiederkehrende Aufgaben findet ihr unter [skills/](../skills/). Wie ihr sie in Chat, Projekt, als Skill oder Agent einsetzt, steht in der [Anleitung](../skills/README.md).
 
 ## Ein mögliches Regelwerk: ROMANE
 

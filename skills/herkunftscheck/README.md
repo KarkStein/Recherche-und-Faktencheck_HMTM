@@ -49,8 +49,4 @@ Das Item möglichst wortgenau eingeben, mit der angeblichen Herkunft, wenn ihr s
 
 ## Herkunft
 
-Diese Fassung beruht auf dem Herkunftscheck, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen. Was anders ist:
-
-- **Kein Plattformbezug.** „Seite öffnen“ statt eines bestimmten Werkzeugs, keine Verweise auf andere Skills.
-- **Quellenregeln eingebaut** als Kurzfassung, ohne Ausschlussliste mit Namen.
-- **Neu:** der Check zu Beginn, ob Websuche, Seitenabruf und Datum verfügbar sind. Beispiele ohne Redaktionsbezug. Als Skill-Ordner mit `SKILL.md`, damit er sich in Claude und Gemini hochladen lässt.
+Beruht auf dem Herkunftscheck, den Florian in der Redaktion nutzt, für verschiedene Plattformen umgebaut.

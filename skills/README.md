@@ -2,8 +2,6 @@
 
 Ein Skill ist ein Text mit Anweisungen und Regeln für eine Aufgabe, die immer wiederkommt, etwa einen Text auf Fakten prüfen. Jeder Skill liegt in einem eigenen Ordner, in der Datei `SKILL.md`. Oben in der Datei steht, wofür der Skill zuständig ist. Tools, die Skills kennen, laden ihn dann von selbst, sobald eure Frage passt. Alle anderen Tools bekommen denselben Text zum Einfügen. Programmieren müsst ihr dafür nichts.
 
-[Moby](../agent/moby/) ist kein Skill, sondern ein Assistent mit eigenem Raum: ein Projekt, ein GPT oder ein Le-Chat-Agent, in dem jede Nachricht ein Text zum Prüfen ist. Wie ihr ihn einrichtet, steht bei Moby.
-
 ## Die sechs Skills und Moby
 
 | | Was er tut | Braucht Websuche? | Kapitel |
@@ -96,7 +94,7 @@ Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist fr
 
 - **Öffnet die Links selbst.** Steht „Snippet“ oder „Snippet-Basis“ dabei, hat der Assistent nur den Suchtreffer gesehen, nicht die Seite.
 - **Ein ✅ oder 🟢 heißt nicht, dass ihr nicht mehr nachschauen müsst.** Es heißt, dass der Assistent Belege gefunden hat.
-- **Keine persönlichen Daten** und nur öffentliches Material in die Prompts (Spielregeln 2 und 3).
+- **Keine persönlichen Daten** und nur öffentliches Material in die Prompts.
 - **Die Verantwortung für euren Text bleibt bei euch.**
 
 ## Das würde die Skills noch besser machen
@@ -122,7 +120,7 @@ Nicht jeder Skill läuft in jedem Tool gleich gut. Probiert einen Skill zuerst m
 
 Notiert euch pro Tool: läuft, läuft mit Einschränkung oder läuft nicht, und ein Stichwort, warum.
 
-Ob Skills in Gemini den gespeicherten Verlauf voraussetzen, ist nicht geklärt. Das stünde gegen Spielregel 4 („Verlauf aus“). Ein Blog behauptet es, die Google-Hilfe sagt dazu nichts.
+Ob Skills in Gemini den gespeicherten Verlauf voraussetzen, ist nicht geklärt. Ein Blog behauptet es, die Google-Hilfe sagt dazu nichts.
 
 ## Belege für die Angaben zu den Tools
 

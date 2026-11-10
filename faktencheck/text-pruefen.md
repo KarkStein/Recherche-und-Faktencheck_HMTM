@@ -2,9 +2,7 @@
 
 Aus Kapitel 5 der Seminarfolien (Grundlagen und Text). Stand: 01.11.2026.
 
-**Prüfstufe aller Links: übernommen.** Sie stehen so auf den Folien und wurden für dieses Repo nicht erneut geöffnet.
-
-Hier steht, wie ihr von Hand prüft. Dieselbe Methode steckt in [Moby](../agent/moby/) und im Skill [Faktencheck](../skills/faktencheck/). Eine einzelne Zahl oder ein Zitat bis zum Ursprung verfolgt der [Herkunftscheck](../skills/herkunftscheck/).
+**Prüfstufe:** übernommen aus den Folien.
 
 ## Zwei Gründe für den Faktencheck
 
@@ -88,8 +86,6 @@ Die Werkzeuge sind dieselben wie bei der Recherche.
 - **Das Datum muss passen.** Eine Quelle von 2024 belegt keinen Stand von 2026.
 - **Nicht belegt?** Umformulieren oder streichen.
 - Wikipedia ist ein Sprungbrett zu Quellen, keine Quelle.
-
-Alles kommt ins [Rechercheprotokoll](../suche/dokumentieren.md#rechercheprotokoll): Fakt, Quelle, Datum, Link.
 
 ## Wer professionell prüft
 

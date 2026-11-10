@@ -47,8 +47,4 @@ Einfach das Thema oder die Frage schreiben. Beispiele:
 
 ## Herkunft
 
-Diese Fassung beruht auf dem Recherche-Assistenten, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen. Was anders ist:
-
-- **Kein Plattformbezug** und keine Verweise auf andere Skills oder Zusatzdateien.
-- **Quellenregeln eingebaut**, als Kurzfassung wie bei Moby, ohne Ausschlussliste mit Namen und ohne politische Einordnung einzelner Medien.
-- **Neu:** der Check zu Beginn, ob Websuche und Datum verfügbar sind, und der Hinweis auf die Pressedatenbanken der Bibliothek bei Bezahlschranken.
+Beruht auf dem Recherche-Assistenten, den Florian in der Redaktion nutzt, für verschiedene Plattformen umgebaut.

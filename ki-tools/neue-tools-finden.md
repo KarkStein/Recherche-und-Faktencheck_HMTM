@@ -30,7 +30,7 @@ Acht Fragen. Die ersten drei entscheiden.
 
 1. **Wer steckt dahinter?** Eine Person oder Organisation mit Namen, ein echtes Profil, ein Impressum. Vorsicht bei Namen, die sich von einem bekannten Projekt nur in einem Zeichen unterscheiden.
 2. **Läuft es im Browser, oder muss ich etwas installieren?** Was im Browser läuft, ist das kleinere Risiko. Ladet nie eine ZIP- oder EXE-Datei über einen „Download“-Knopf in einer README, sondern nur über die offizielle Releases-Seite oder Website des Projekts.
-3. **Wohin gehen meine Daten?** Upload, Training, Serverstandort. Nur hochladen, was schon öffentlich ist (Spielregel 3).
+3. **Wohin gehen meine Daten?** Upload, Training, Serverstandort. Nur hochladen, was schon öffentlich ist.
 4. **Konto, Kosten, Limits?** Mit Datum notieren. Freemium-Angebote ändern sich schnell.
 5. **Lebt das Projekt?** Letztes Update, Releases, offene Issues mit Antworten.
 6. **Gibt es eine offene Lizenz?** Bei Open Source steht sie im Repo.

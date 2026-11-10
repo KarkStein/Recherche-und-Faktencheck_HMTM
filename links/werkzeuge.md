@@ -2,13 +2,11 @@
 
 Werkzeuge, die zu den sechs Kapiteln des Seminars passen und auf den anderen Seiten noch fehlen. Was schon dort steht, steht hier nicht noch einmal: Am Anfang jedes Kapitels steht, wo ihr es findet. Stand: 10.11.2026.
 
-**Prüfstufe:** Alle Links sind **geöffnet am 07. oder 10.11.2026**. Zugang und Preise stehen so da, wie die Anbieter sie an diesem Tag angaben, ohne Gewähr.
-
-Die [Spielregeln](../README.md#spielregeln-für-ki) gelten auch hier: keine persönlichen Daten hochladen, nur Material, das schon öffentlich ist. Für Vertrauliches gibt es in Kapitel 6 Programme, die nur auf eurem Rechner laufen.
+**Prüfstufe:** geöffnet am 07. oder 10.11.2026. Zugang und Preise laut Anbieter an diesem Tag.
 
 ## 1. Recherchestrategie: planen, sichern, wer steckt dahinter
 
-Schon im Repo: Seiten sichern und das Rechercheprotokoll in [Dokumentieren](../suche/dokumentieren.md).
+Schon im Repo: Seiten sichern in [Dokumentieren](../suche/dokumentieren.md).
 
 | Werkzeug | Wofür | Zugang |
 |---|---|---|

@@ -2,7 +2,7 @@
 
 Aus Kapitel 3 der Seminarfolien. Stand: 01.11.2026.
 
-**Prüfstufe aller Links: übernommen.** Sie stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Zugänge über Bibliotheken ändern sich gelegentlich. Funktioniert ein Link nicht, findet ihr die Datenbank über [DBIS](#datenbanken-finden-dbis).
+**Prüfstufe:** übernommen aus den Folien. Funktioniert ein Link nicht, findet ihr die Datenbank über [DBIS](#datenbanken-finden-dbis).
 
 ## Warum Datenbanken, wenn es Google gibt?
 

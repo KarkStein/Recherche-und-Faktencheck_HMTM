@@ -2,7 +2,7 @@
 
 Aus Kapitel 5 der Seminarfolien (Bild und Video). Stand: 07.11.2026.
 
-**Prüfstufe:** Die verlinkten Adressen sind **geöffnet am 07.11.2026**. Ausnahmen: Image Whisperer, Wolfram Alpha und das InVID-Plugin sind von den Folien **übernommen**. Baidu und SynthID ließen sich nicht öffnen und stehen als **zu prüfen** dabei. Was die Werkzeuge können und was sie kosten, ist von den Folien übernommen.
+**Prüfstufe:** geöffnet am 07.11.2026. Übernommen aus den Folien: Image Whisperer, Wolfram Alpha, das InVID-Plugin und die Angaben dazu, was die Werkzeuge können und kosten. Zu prüfen: Baidu und SynthID.
 
 ## Die Checkliste
 
@@ -96,8 +96,6 @@ Grenzen: Trenne Beobachtung von Vermutung, sag klar, was du nicht prüfen konnte
 Format: Tabelle mit Befund, Beleg mit Link, offen.
 ```
 
-Nur Bilder hochladen, die schon öffentlich sind (Spielregel 3).
-
 ## Geolokation: Wo wurde das aufgenommen?
 
 1. **Hinweise sammeln:** Schilder und Sprache, Architektur, Kennzeichen, Vegetation, markante Bauten.
@@ -115,4 +113,3 @@ Nur Bilder hochladen, die schon öffentlich sind (Spielregel 3).
 | Wolfram Alpha | historisches Wetter an Ort und Tag | [wolframalpha.com](https://www.wolframalpha.com/) |
 | Rückwärtssuche | visuelle Übereinstimmungen zeigen denselben Ort aus anderen Blickwinkeln | siehe oben |
 
-Was ihr prüft, gehört ins [Rechercheprotokoll](../suche/dokumentieren.md#rechercheprotokoll): Bild, Werkzeug, Ergebnis, Link.

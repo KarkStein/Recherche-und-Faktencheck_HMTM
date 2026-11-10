@@ -39,16 +39,10 @@ Ein KI-Assistent mit **Websuche**, am besten einer, der Seiten auch **öffnen** 
 ## Grenzen
 
 - **Wer etwas sagt, belegt nur, dass er es sagt.** Ob es stimmt, ist eine eigene Prüfung, etwa mit dem [Faktencheck](../faktencheck/).
-- **Nur öffentliche Stimmen** und ihre öffentlichen Aussagen. Private Angaben über Personen gehören nicht in den Prompt (Spielregel 2).
+- **Nur öffentliche Stimmen** und ihre öffentlichen Aussagen. Private Angaben über Personen gehören nicht in den Prompt.
 - **Keine Bezahlschranken:** Er umgeht sie nicht, vermerkt sie und sucht eine andere Quelle.
 - **Drei Modi:** Themen-Dossier, Expertenliste und Kurzprofil. Eine Person über Jahre verfolgen kann er nicht (siehe Herkunft).
 
 ## Herkunft
 
-Diese Fassung beruht auf dem Skill „Expertenmeinungen“, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen. Was anders ist:
-
-- **Drei Modi statt sechs:** Themen-Dossier, Expertenliste, Positions-Kurzprofil. Das Voll-Tracking einer Person über Jahre und der Faktencheck einer Position fallen weg. Sie brauchen viele geöffnete Seiten und ein Belegregister, das in Gratis-Tools selten durchhält.
-- **Eine Datei statt sieben:** Die sechs Zusatzdateien der Redaktionsfassung stehen als Text im Skill.
-- **Dieselben Quellenregeln** wie in den anderen Skills dieses Repos, ergänzt um Regeln für Zitate, Mediatheken und Interessen.
-- **Kein Plattformbezug:** keine Werkzeugnamen. HTML-Dossier und CSV nur, wenn euer Tool Dateien erzeugen kann.
-- **Neu:** der Check zu Beginn, ob Websuche, Seitenabruf und Datum verfügbar sind, Beispiele aus der Kultur, die Regel zu Personen ohne öffentliche Rolle.
+Beruht auf dem Skill „Expertenmeinungen“, den Florian in der Redaktion nutzt, für verschiedene Plattformen umgebaut und vereinfacht.

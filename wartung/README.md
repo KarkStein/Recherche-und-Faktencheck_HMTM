@@ -37,10 +37,13 @@ Damit sich Leserinnen und Leser überall gleich zurechtfinden, folgen alle Seite
 3. Abschnitte in dieser Reihenfolge: Welche Datei wofür · Voraussetzung · So fragt ihr · Das Ergebnis lesen · Grenzen · Herkunft
 4. Erlaubt ist ein Zusatzabschnitt, wo er nötig ist, etwa „Faktencheck oder Moby?“
 5. Wie man einen Skill einrichtet, steht nur in der [Anleitung](../skills/README.md), nicht auf jeder Skill-Seite. Ausnahme: Moby, der als Assistent anders eingerichtet wird.
+6. Herkunft: ein Satz, auf welchem Redaktions-Werkzeug der Skill beruht.
 
 **Inhaltsseite** (alle anderen Seiten)
 1. Überschrift
 2. Kopfzeile: „Aus Kapitel X des Seminars. Stand: TT.MM.JJJJ.“
-3. Prüfstufe der Links, wenn die Seite Links enthält: geöffnet (mit Datum), übernommen, zu prüfen
+3. Prüfstufe der Links, wenn die Seite Links enthält, als eine Zeile: „**Prüfstufe:** übernommen aus den Folien.“ oder „**Prüfstufe:** geöffnet am TT.MM.JJJJ.“, Ausnahmen kurz dahinter. Was die Stufen bedeuten, steht nur auf der Startseite.
+
+**Skills erwähnen:** Vorgestellt werden die Skills nur auf der Startseite und in der [Skill-Übersicht](../skills/README.md). Auf Inhaltsseiten steht ein Skill nur dort, wo er genau den Arbeitsschritt der Seite übernimmt, etwa der PDB-Helfer bei den Suchstrings. Jedes Thema wird an einer Stelle erklärt, sonst steht dort ein Link.
 
 **Stand** heißt: An diesem Tag wurden die Angaben auf der Seite zuletzt geprüft oder geändert. Wer nur umformuliert, lässt das Datum stehen.

@@ -2,18 +2,9 @@
 
 Dieselben Tools wie auf dem [Spickzettel](spickzettel.pdf) (Kapitel 4 und 6), hier als Linkliste. Stand der Angaben zu Zugang und Preisen: 01.11.2026, ohne Gewähr.
 
-**Prüfstufe:** Zugang und Preise wurden für den Spickzettel am 31.10.2026 auf den Seiten der Anbieter oder in datierten Berichten geprüft. Die Adressen sind von dort übernommen. Was davon offen ist, steht als „zu prüfen“ dabei.
+**Prüfstufe:** übernommen vom Spickzettel, dessen Angaben zu Zugang und Preisen am 31.10.2026 geprüft wurden. Offenes steht als „zu prüfen“ dabei.
 
 ° Zugang ändert sich gerade, vor Ort ausprobieren.
-
-## Spielregeln
-
-1. Ein Konto ist freiwillig. Jede Übung geht auch ohne.
-2. Keine Namen, Telefonnummern oder anderen persönlichen Daten in Prompts.
-3. Nur Dokumente hochladen, die schon öffentlich zugänglich sind.
-4. Wo es geht: Verlauf aus, Training abwählen.
-5. Jeder Link wird geöffnet. Was nicht geöffnet wurde, gilt als nicht verifiziert.
-6. KI-Text, den ihr übernehmt, kennzeichnet ihr.
 
 ## Welches Tool wofür
 

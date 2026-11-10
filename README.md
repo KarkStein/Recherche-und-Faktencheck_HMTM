@@ -12,11 +12,11 @@ Stand: 10.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
 
 | Ordner | Was drin ist | Kapitel |
 |---|---|---|
-| [skills/](skills/README.md) | sechs Skills zum Kopieren oder Hochladen: [Faktencheck](skills/faktencheck/README.md), [Herkunftscheck](skills/herkunftscheck/README.md), [Themenrecherche](skills/themenrecherche/README.md), [Expertenmeinungen](skills/expertenmeinungen/README.md), [PDB-Helfer](skills/pdb-helfer/README.md), [Prompthelfer](skills/prompthelfer/README.md); dazu die [Anleitung](skills/README.md), wie ihr sie einsetzt | 2–5 |
+| [skills/](skills/README.md) | sechs Skills zum Kopieren oder Hochladen, vom Faktencheck bis zum Prompthelfer, mit Anleitung, wie ihr sie einsetzt | 2–5 |
 | [agent/](agent/README.md) | [Moby](agent/moby/README.md), der Faktencheck-Assistent für Projekt, GPT oder Le-Chat-Agent | 5 |
 | [prompts/](prompts/README.md) | [Von der Frage zum Auftrag](prompts/recherche-auftrag.md), [KI-Antworten prüfen](prompts/ki-antworten-pruefen.md) | 4 |
 | [ki-tools/](ki-tools/README.md) | [Spickzettel](ki-tools/spickzettel.pdf) als PDF, [alle Tools mit Link](ki-tools/tools.md), [Neue KI-Tools finden und prüfen](ki-tools/neue-tools-finden.md) | 4, 6 |
-| [suche/](suche/README.md) | [Ergebnisse dokumentieren, mit Rechercheprotokoll](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
+| [suche/](suche/README.md) | [Ergebnisse dokumentieren](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
 | [faktencheck/](faktencheck/README.md) | [Texte prüfen: das Handwerk](faktencheck/text-pruefen.md); [Bilder prüfen und Geolokation](faktencheck/bilder-pruefen.md) | 5 |
 | [links/](links/README.md) | [Werkzeuge nach Kapiteln](links/werkzeuge.md), [Lesetipps: Artikel, Podcasts, Studien, Bücher](links/lesetipps.md), [Recherche-Links zu Kulturthemen](links/kultur.md) | alle |
 | [folien/](folien/README.md) | die [Seminarfolien als PDF](folien/Folien_Recherche_und_Faktencheck.pdf), korrigierte Fassung, ohne Sprechernotizen | alle |
@@ -37,24 +37,15 @@ Habt ihr ein Konto bei Claude oder Gemini, könnt ihr die Skills auch hochladen.
 
 **Herunterladen:** das [Gesamtpaket](gesamtpaket/README.md) zum Lesen und Weitergeben. Oder die Dateien so, wie sie hier liegen: grüner Knopf „Code“, dann „Download ZIP“.
 
-## Spielregeln für KI
-
-1. Ein Konto ist freiwillig. Jede Übung geht auch ohne.
-2. Keine Namen, Telefonnummern oder anderen persönlichen Daten in Prompts.
-3. Nur Dokumente hochladen, die schon öffentlich zugänglich sind.
-4. Wo es geht: Verlauf aus, Training abwählen.
-5. Jeder Link wird geöffnet. Was nicht geöffnet wurde, gilt als nicht verifiziert.
-6. KI-Text, den ihr übernehmt, kennzeichnet ihr.
-
 ## Prüfstufen
 
-Wie im Seminar trägt jeder Link eine Prüfstufe:
+Wie im Seminar trägt jeder Link eine Prüfstufe. Sie steht oben auf jeder Seite:
 
 - **geöffnet (mit Datum):** Die Seite wurde aufgerufen und die Angabe dort gesehen.
 - **übernommen:** aus den Seminarfolien oder dem Spickzettel übernommen, für dieses Repo nicht erneut geöffnet.
 - **zu prüfen:** nicht verifiziert.
 
-Zugänge und Preise ändern sich schnell. Alle Angaben stehen mit Datum und ohne Gewähr. Findet ihr einen toten Link oder eine veraltete Angabe, schreibt Florian.
+Zugänge und Preise ändern sich schnell. Alle Angaben stehen mit Datum und ohne Gewähr. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/). Findet ihr einen toten Link oder eine veraltete Angabe, schreibt Florian.
 
 ## Kleines Wörterbuch
 

@@ -2,7 +2,7 @@
 
 Aus Kapitel 5 der Seminarfolien (Abschnitt Social Media). Stand: 05.11.2026.
 
-**Prüfstufe:** Die Links stehen so auf den Folien und sind **übernommen**. Die Plattformen ändern ihre Suche und ihre Adressen oft. Was hier steht, gilt für den Stand oben. Was auf einer Plattform nicht mehr geht, prüft ihr selbst nach.
+**Prüfstufe:** übernommen aus den Folien.
 
 ## Bevor ihr sucht
 
@@ -84,4 +84,3 @@ Mehr zu den Google-Operatoren steht in [Suchen im Web](google-operatoren.md).
 | [TikTok Timestamp](https://bellingcat.github.io/tiktok-timestamp/) | Video-Adresse einfügen: Uploadzeit auf die Sekunde, auch bei gelöschten Videos | ohne Anmeldung |
 | [Bellingcat-Toolkit](https://bellingcat.gitbook.io/toolkit) | Werkzeugsammlung nach Plattform, je Eintrag mit Kosten und Konto-Bedarf | ohne Anmeldung |
 
-Was ihr findet, gehört ins [Rechercheprotokoll](dokumentieren.md#rechercheprotokoll): Fund mit Adresse, Datum und Konto, und was nicht ging.

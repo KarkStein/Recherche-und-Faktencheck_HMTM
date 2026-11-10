@@ -2,7 +2,7 @@
 
 Aus Kapitel 1 der Seminarfolien. Stand: 01.11.2026.
 
-**Prüfstufe aller Links: übernommen.** Sie stehen so auf den Folien und wurden für dieses Repo nicht erneut geöffnet.
+**Prüfstufe:** übernommen aus den Folien.
 
 ## Warum dokumentieren?
 
@@ -21,27 +21,3 @@ Die Adresse einer Seite aufzuheben reicht leider nicht. Wer die Seite betreibt, 
 
 Ist eine Seite schon weg, hilft oft das Web-Archiv, siehe [Suchen im Web](google-operatoren.md#suche-im-web-archiv).
 
-## Rechercheprotokoll
-
-Eine Zeile pro Fund. Prüfstufe wie in diesem Repo: „geöffnet“, wenn ihr die Seite selbst gelesen habt, sonst „nicht verifiziert“.
-
-| Nr. | Was steht dort? | Quelle (Medium, Autor) | Adresse | Abrufdatum | Prüfstufe | Bemerkung |
-|---|---|---|---|---|---|---|
-| 1 | | | | | | |
-| 2 | | | | | | |
-| 3 | | | | | | |
-
-**Was nicht ging** (Bezahlschranke, Seite gesperrt, nichts gefunden):
-
--
-
-Zum Kopieren in ein eigenes Dokument:
-
-```
-| Nr. | Was steht dort? | Quelle (Medium, Autor) | Adresse | Abrufdatum | Prüfstufe | Bemerkung |
-|---|---|---|---|---|---|---|
-| 1 | | | | | | |
-
-Was nicht ging:
--
-```

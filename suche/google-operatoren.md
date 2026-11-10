@@ -2,7 +2,7 @@
 
 Aus Kapitel 2 der Seminarfolien, ergänzt um den Stand, welche Operatoren heute noch wirken. Stand: 01.11.2026.
 
-Links aus den Folien haben die Prüfstufe **übernommen** (für dieses Repo nicht erneut geöffnet). Die beiden Quellen zum Operator-Stand sind **geöffnet am 01.11.2026**. Die Angaben zu Brave, Qwant und Ecosia sind auf den Seiten der Anbieter **geöffnet am 07.11.2026** und korrigiert.
+**Prüfstufe:** übernommen aus den Folien. Geöffnet: die beiden Quellen zum Operator-Stand (01.11.2026) und die Angaben zu Brave, Qwant und Ecosia (07.11.2026).
 
 ## Welche Suchmaschine?
 

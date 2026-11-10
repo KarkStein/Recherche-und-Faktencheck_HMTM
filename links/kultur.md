@@ -2,7 +2,7 @@
 
 Aus dem Anhang der Seminarfolien, ergänzt um einige Datenbanken. Stand: 10.11.2026.
 
-**Prüfstufe: übernommen.** Die Links stehen genau so auf Florians Folien und wurden für dieses Repo nicht erneut geöffnet. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/). Ausnahme: Die mit **neu** markierten Einträge sind hinzugekommen und **geöffnet am 07. oder 10.11.2026**.
+**Prüfstufe:** übernommen aus den Folien. Die mit **neu** markierten Einträge sind geöffnet am 07. oder 10.11.2026.
 
 „via Munzinger“ heißt: Zugang über die Munzinger-Datenbank mit eurem Ausweis der Stadtbibliothek oder der Stabi, siehe [Datenbanken](../suche/datenbanken.md#munzinger). Die Module unterscheiden sich je nach Zugang etwas.
 
@@ -45,7 +45,7 @@ Aus dem Anhang der Seminarfolien, ergänzt um einige Datenbanken. Stand: 10.11.2
 | [aphorismen.de](http://www.aphorismen.de/) | Aphorismen und Sprichwörter |
 | [zitate.eu](http://www.zitate.eu/) | sehr umfangreiche Zitatesammlung |
 
-Zitatsammlungen sind Findehilfen, keine Belege. Ein Zitat prüft ihr bis zur Originalstelle, zum Beispiel mit dem [Herkunftscheck](../skills/herkunftscheck/).
+Zitatsammlungen sind Findehilfen, keine Belege. Ein Zitat prüft ihr bis zur Originalstelle.
 
 ### Medien: Presse, Rundfunk, Online, PR
 

@@ -16,7 +16,7 @@ Beide prüfen nach derselben Methode wie im Seminar. Der Unterschied liegt darin
 | Status | ❌ heißt falsch oder nicht belegt | ❌ widerlegt und ⭕ nicht belegt sind getrennt |
 | Am besten in | Claude-Projekt, ChatGPT-Projekt, GPT, Le-Chat-Agent | Claude und Gemini als hochgeladener Skill, sonst überall zum Einfügen |
 
-In Gemini gibt es ab dem 17.11.2026 keine neuen Gems mehr. Dort nehmt ihr den Faktencheck als Skill.
+In Gemini nehmt ihr den Faktencheck als Skill, denn Gems laufen dort aus.
 
 ## Welche Datei wofür
 
@@ -62,8 +62,4 @@ Ein KI-Assistent, der **im Web suchen** kann, am besten auch Seiten **öffnen un
 
 ## Herkunft
 
-Diese Fassung beruht auf dem Faktencheck-Skill, den Florian in der Redaktion nutzt, umgebaut für verschiedene Plattformen. Was anders ist:
-
-- **Quellenregeln eingebaut** als Kurzfassung, wie bei Moby. In der Redaktion hängt ein eigenes Regelwerk als Datei an.
-- **Kein Plattformbezug:** keine Werkzeugnamen, keine festen Abrufzahlen, keine Übergabe an andere Assistenten.
-- **Neu:** der Check zu Beginn, ob Websuche, Seitenabruf und Datum verfügbar sind, die Hinweise zu Zuschreibungen, Bezugsgrößen und absoluten Aussagen aus Moby, Korrekturvorschläge und Zählprobe.
+Beruht auf dem Faktencheck-Skill, den Florian in der Redaktion nutzt, für verschiedene Plattformen umgebaut.
