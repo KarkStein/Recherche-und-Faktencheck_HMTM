@@ -83,12 +83,12 @@ Statt von Hand könnt ihr den Skill auch hochladen: Paket herunterladen und entp
 
 **In Programmier-Werkzeugen** wie Claude Code, Gemini CLI oder GitHub Copilot: Diese Werkzeuge lesen Skill-Ordner mit `SKILL.md` direkt. Den entpackten Ordner in den Skill-Ordner des Werkzeugs legen.
 
-Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist freiwillig. Welche Tools ohne Konto eine Websuche haben, steht in der [Tool-Liste](../ki-tools/tools.md).
+Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist freiwillig. Welche Tools ohne Konto eine Websuche haben, steht in der [Tool-Liste](../tools/tools.md).
 
 ## Skills sind Text: erst lesen, dann hochladen
 
 - Die Skills in diesem Repo sind reiner Text, ohne Skripte oder Programme. In jeder ZIP-Datei liegt nur die `SKILL.md`, die ihr hier lesen könnt.
-- Fremde Skills lest ihr vor dem Hochladen. Ein Skill kann Anweisungen und Skripte enthalten, die euer Assistent dann befolgt oder ausführt. Im Juli 2026 zählte die Sicherheitsfirma Island über 800 gefälschte GitHub-Repos, die sich als KI-Skills oder MCP-Server tarnten und Schadsoftware verbreiteten. Mehr dazu in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md).
+- Fremde Skills lest ihr vor dem Hochladen. Ein Skill kann Anweisungen und Skripte enthalten, die euer Assistent dann befolgt oder ausführt. Im Juli 2026 zählte die Sicherheitsfirma Island über 800 gefälschte GitHub-Repos, die sich als KI-Skills oder MCP-Server tarnten und Schadsoftware verbreiteten. Mehr dazu in [Neue KI-Tools finden](../tools/neue-tools-finden.md).
 
 ## Für alle Skills gilt
 
@@ -102,7 +102,7 @@ Für Claude, ChatGPT, Gemini und Le Chat braucht ihr ein Konto. Ein Konto ist fr
 - **Eine eigene Quellenliste:** welche Quellen ihr zuerst nehmt, welche nie. Baut sie für euer Fachgebiet und hängt sie als Datei an.
 - **Euer eigenes Material:** Rechercheordner, Protokolle, Dokumente als Dateien ins Projekt.
 - **Pressedatenbanken:** Was die Skills hinter Bezahlschranken nicht finden, sucht ihr mit dem PDB-Helfer in den Datenbanken eurer Bibliothek.
-- **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden. Mehr dazu in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md).
+- **Daten direkt:** Über MCP (Model Context Protocol) lassen sich Datenbanken und Dienste an KI-Assistenten anbinden. Mehr dazu in [Neue KI-Tools finden](../tools/neue-tools-finden.md).
 - **Ein Ablauf statt eines einzelnen Prompts:** feste Schritte mit je eigenem Auftrag, etwa wichtige Fakten gründlich und Nebensachen schnell prüfen. Das braucht eine Plattform für solche Abläufe (Workflows).
 - **Euer eigener Skill:** Was ihr zum zweiten Mal genauso macht, ist ein Skill. Ordner anlegen, darin eine `SKILL.md` mit `name` und `description` im Kopf und euren Regeln darunter. Die Skills hier sind Vorlagen dafür, ein leeres Gerüst liegt beim [Prompthelfer](prompthelfer/Vorlage_Skill.md), und der Prompthelfer baut einen Skill auch mit euch.
 

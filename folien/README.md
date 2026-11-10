@@ -21,7 +21,7 @@ Ohne Sprechernotizen. Die Klick-Animationen sind im PDF aufgelöst: Jede Seite z
 | 6. KI-Tools für die Arbeit | 139–150 |
 | Anhang: Recherche-Links zu Kulturthemen | 151–156 |
 
-Was auf den Folien steht, findet ihr im Repo zum Nachschlagen, mit Links und Stand: [Suchen](../suche/README.md) (Kapitel 1–3 und Social Media), [Prompts](../prompts/README.md) und [KI-Tools](../ki-tools/README.md) (Kapitel 4 und 6), [Faktencheck](../faktencheck/README.md) (Kapitel 5), [Kultur-Links](../links/kultur.md) (Anhang).
+Was auf den Folien steht, findet ihr im Repo zum Nachschlagen, mit Links und Stand: [Suchen](../suche/README.md) (Kapitel 1–3 und Social Media), [KI in der Recherche](../ki/README.md) (Kapitel 4 und 6), [Faktencheck](../faktencheck/README.md) (Kapitel 5), [Kultur-Links](../links/kultur.md) (Anhang).
 
 ## Was ihr damit machen dürft
 

@@ -37,7 +37,7 @@ Die meisten Pressedatenbanken laufen intern in Verlagen und Sendern. F.A.Z. und 
 
 In allen vier gehen `AND`, `OR`, `NOT`, `*` zum Trunkieren, `"Phrasensuche"` und `(Klammern)` zum Gruppieren.
 
-Den Suchstring für SZ, F.A.Z. und WISO baut euch auf Wunsch der [PDB-Helfer](../skills/pdb-helfer/).
+Den Suchstring für SZ, F.A.Z. und WISO baut euch auf Wunsch der [PDB-Helfer](../ki/skills/pdb-helfer/).
 
 ### Süddeutsche Zeitung
 

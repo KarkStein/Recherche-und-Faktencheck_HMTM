@@ -52,7 +52,7 @@ Zwei Statistiken, zwei Zahlen: Für die Theaterbesuche 2023/24 nennt der Bühnen
 
 ## 4. KI-unterstützte Recherche
 
-Schon im Repo: alle Tools aus dem Seminar in [KI-Tools mit Link](../ki-tools/tools.md), Prompts in [Von der Frage zum Auftrag](../prompts/recherche-auftrag.md), neue Tools finden und prüfen in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md).
+Schon im Repo: alle Tools aus dem Seminar in [KI-Tools mit Link](../ki/tools/tools.md), Prompts in [Von der Frage zum Auftrag](../ki/prompts/recherche-auftrag.md), neue Tools finden und prüfen in [Neue KI-Tools finden](../ki/tools/neue-tools-finden.md).
 
 | Werkzeug | Wofür | Zugang |
 |---|---|---|
@@ -76,7 +76,7 @@ Schon im Repo: [Texte prüfen](../faktencheck/text-pruefen.md) mit dpa, GADMO, F
 
 ## 6. KI-Tools für die Arbeit
 
-Schon im Repo: Transkription, Übersetzung und Dokumente befragen in [KI-Tools mit Link](../ki-tools/tools.md).
+Schon im Repo: Transkription, Übersetzung und Dokumente befragen in [KI-Tools mit Link](../ki/tools/tools.md).
 
 🔒 = läuft auf eurem Rechner, nichts geht ins Netz. Dafür braucht es einen kräftigen Rechner, und das erste Herunterladen dauert.
 

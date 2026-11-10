@@ -1,6 +1,6 @@
 # KI-Antworten prüfen
 
-Aus Kapitel 4 des Seminars und dem [Spickzettel](../ki-tools/spickzettel.pdf). Stand: 01.11.2026.
+Aus Kapitel 4 des Seminars und dem [Spickzettel](../tools/spickzettel.pdf). Stand: 01.11.2026.
 
 **Die Fußnote zeigt, wo gesucht wurde, nicht, was belegt ist.**
 

@@ -2,7 +2,7 @@
 
 Der PDB-Helfer baut euch Suchstrings für Pressedatenbanken (PDB): zwei kopierfertige Strings, einen engen und einen weiten, und erklärt jeden Baustein. Standard ist das Archiv der Süddeutschen Zeitung über die Stabi (Bayerische Staatsbibliothek). Auf Wunsch schreibt er den String für F.A.Z., Genios/WISO oder LexisNexis um. Ihr kopiert den String in die Datenbank, meldet die Trefferzahl zurück, und er justiert nach.
 
-Passt zu Kapitel 3 des Seminars. Zugänge und Syntax aller Datenbanken stehen in [Datenbanken: Zugänge und Suchsyntax](../../suche/datenbanken.md).
+Passt zu Kapitel 3 des Seminars. Zugänge und Syntax aller Datenbanken stehen in [Datenbanken: Zugänge und Suchsyntax](../../../suche/datenbanken.md).
 
 Stand: 03.11.2026
 

@@ -6,7 +6,7 @@ Darin:
 - Werkzeugkasten.html       alle Seiten in einer Datei, mit Inhaltsverzeichnis
                             und Kopier-Knöpfen, läuft ohne Internet
 - Skills_zum_Kopieren/      jeder Skill und Moby als .txt
-- Skills_zum_Hochladen/     die Pakete aus skills/zum-hochladen/
+- Skills_zum_Hochladen/     die Pakete aus ki/skills/zum-hochladen/
 - Fuer_KI-Chats/            alle Seiten als eine Markdown-Datei, ohne Skill-Texte
 - Folien_Recherche_und_Faktencheck.pdf, Spickzettel.pdf, LIESMICH.txt
 
@@ -43,32 +43,33 @@ ZEITSTEMPEL = (2026, 1, 1, 0, 0, 0)
 GRUPPEN = [
     ("Start", [("README.md", "Start")]),
     ("Folien", [("folien/README.md", "Seminarfolien")]),
-    ("Skills", [
-        ("skills/README.md", "Überblick und Anleitung"),
-        ("skills/faktencheck/README.md", "Faktencheck"),
-        ("skills/herkunftscheck/README.md", "Herkunftscheck"),
-        ("skills/themenrecherche/README.md", "Themenrecherche"),
-        ("skills/expertenmeinungen/README.md", "Expertenmeinungen"),
-        ("skills/pdb-helfer/README.md", "PDB-Helfer"),
-        ("skills/prompthelfer/README.md", "Prompthelfer"),
-        ("skills/prompthelfer/Vorlage_Skill.md", "Vorlage für eigene Skills"),
-        ("skills/zum-hochladen/README.md", "Pakete zum Hochladen"),
-    ]),
-    ("Assistent", [("agent/moby/README.md", "Moby")]),
-    ("Prompten", [
-        ("prompts/recherche-auftrag.md", "Von der Frage zum Auftrag"),
-        ("prompts/ki-antworten-pruefen.md", "KI-Antworten prüfen"),
-    ]),
-    ("KI-Tools", [
-        ("ki-tools/tools.md", "Alle Tools mit Link"),
-        ("ki-tools/neue-tools-finden.md", "Neue KI-Tools finden"),
-    ]),
     ("Suchen", [
         ("suche/dokumentieren.md", "Dokumentieren"),
         ("suche/google-operatoren.md", "Suchen im Web"),
         ("suche/datenbanken.md", "Datenbanken"),
         ("suche/social-media.md", "Social Media"),
     ]),
+    ("KI: Tools", [
+        ("ki/README.md", "KI in der Recherche: Überblick"),
+        ("ki/tools/tools.md", "Alle Tools mit Link"),
+        ("ki/tools/neue-tools-finden.md", "Neue KI-Tools finden"),
+    ]),
+    ("KI: Prompten", [
+        ("ki/prompts/recherche-auftrag.md", "Von der Frage zum Auftrag"),
+        ("ki/prompts/ki-antworten-pruefen.md", "KI-Antworten prüfen"),
+    ]),
+    ("KI: Skills", [
+        ("ki/skills/README.md", "Überblick und Anleitung"),
+        ("ki/skills/faktencheck/README.md", "Faktencheck"),
+        ("ki/skills/herkunftscheck/README.md", "Herkunftscheck"),
+        ("ki/skills/themenrecherche/README.md", "Themenrecherche"),
+        ("ki/skills/expertenmeinungen/README.md", "Expertenmeinungen"),
+        ("ki/skills/pdb-helfer/README.md", "PDB-Helfer"),
+        ("ki/skills/prompthelfer/README.md", "Prompthelfer"),
+        ("ki/skills/prompthelfer/Vorlage_Skill.md", "Vorlage für eigene Skills"),
+        ("ki/skills/zum-hochladen/README.md", "Pakete zum Hochladen"),
+    ]),
+    ("KI: Assistent", [("ki/agent/moby/README.md", "Moby")]),
     ("Faktencheck", [
         ("faktencheck/text-pruefen.md", "Texte prüfen"),
         ("faktencheck/bilder-pruefen.md", "Bilder prüfen"),
@@ -82,26 +83,26 @@ GRUPPEN = [
 
 # Texte zum Kopieren: (Quelle, Datei im Paket, Seite mit Kopier-Kasten oder None, Beschriftung)
 TEXTE = [
-    ("skills/faktencheck/SKILL.md", "Faktencheck.txt", "skills/faktencheck/README.md", "Langfassung"),
-    ("skills/herkunftscheck/SKILL.md", "Herkunftscheck.txt", "skills/herkunftscheck/README.md", "Langfassung"),
-    ("skills/herkunftscheck/Herkunftscheck_kurz.md", "Herkunftscheck_kurz.txt", "skills/herkunftscheck/README.md", "Kurzfassung"),
-    ("skills/themenrecherche/SKILL.md", "Themenrecherche.txt", "skills/themenrecherche/README.md", "Langfassung"),
-    ("skills/themenrecherche/Themenrecherche_kurz.md", "Themenrecherche_kurz.txt", "skills/themenrecherche/README.md", "Kurzfassung"),
-    ("skills/expertenmeinungen/SKILL.md", "Expertenmeinungen.txt", "skills/expertenmeinungen/README.md", "Langfassung"),
-    ("skills/expertenmeinungen/Expertenmeinungen_kurz.md", "Expertenmeinungen_kurz.txt", "skills/expertenmeinungen/README.md", "Kurzfassung"),
-    ("skills/pdb-helfer/SKILL.md", "PDB-Helfer.txt", "skills/pdb-helfer/README.md", "Langfassung"),
-    ("skills/prompthelfer/SKILL.md", "Prompthelfer.txt", "skills/prompthelfer/README.md", "Langfassung"),
-    ("skills/prompthelfer/Prompthelfer_kurz.md", "Prompthelfer_kurz.txt", "skills/prompthelfer/README.md", "Kurzfassung"),
-    ("skills/prompthelfer/Vorlage_Skill.md", "Vorlage_Skill.txt", None, "Vorlage"),
-    ("agent/moby/Moby_Faktencheck.md", "Moby_Faktencheck.txt", "agent/moby/README.md", "Langfassung"),
-    ("agent/moby/Moby_kurz.md", "Moby_kurz.txt", "agent/moby/README.md", "Kurzfassung"),
+    ("ki/skills/faktencheck/SKILL.md", "Faktencheck.txt", "ki/skills/faktencheck/README.md", "Langfassung"),
+    ("ki/skills/herkunftscheck/SKILL.md", "Herkunftscheck.txt", "ki/skills/herkunftscheck/README.md", "Langfassung"),
+    ("ki/skills/herkunftscheck/Herkunftscheck_kurz.md", "Herkunftscheck_kurz.txt", "ki/skills/herkunftscheck/README.md", "Kurzfassung"),
+    ("ki/skills/themenrecherche/SKILL.md", "Themenrecherche.txt", "ki/skills/themenrecherche/README.md", "Langfassung"),
+    ("ki/skills/themenrecherche/Themenrecherche_kurz.md", "Themenrecherche_kurz.txt", "ki/skills/themenrecherche/README.md", "Kurzfassung"),
+    ("ki/skills/expertenmeinungen/SKILL.md", "Expertenmeinungen.txt", "ki/skills/expertenmeinungen/README.md", "Langfassung"),
+    ("ki/skills/expertenmeinungen/Expertenmeinungen_kurz.md", "Expertenmeinungen_kurz.txt", "ki/skills/expertenmeinungen/README.md", "Kurzfassung"),
+    ("ki/skills/pdb-helfer/SKILL.md", "PDB-Helfer.txt", "ki/skills/pdb-helfer/README.md", "Langfassung"),
+    ("ki/skills/prompthelfer/SKILL.md", "Prompthelfer.txt", "ki/skills/prompthelfer/README.md", "Langfassung"),
+    ("ki/skills/prompthelfer/Prompthelfer_kurz.md", "Prompthelfer_kurz.txt", "ki/skills/prompthelfer/README.md", "Kurzfassung"),
+    ("ki/skills/prompthelfer/Vorlage_Skill.md", "Vorlage_Skill.txt", None, "Vorlage"),
+    ("ki/agent/moby/Moby_Faktencheck.md", "Moby_Faktencheck.txt", "ki/agent/moby/README.md", "Langfassung"),
+    ("ki/agent/moby/Moby_kurz.md", "Moby_kurz.txt", "ki/agent/moby/README.md", "Kurzfassung"),
 ]
 
 # Ordner-Seiten, die in der Leseversion keine eigene Seite haben: Links darauf führen hierhin
 UMLEITUNG = {
-    "agent/README.md": "agent/moby/README.md",
-    "prompts/README.md": "prompts/recherche-auftrag.md",
-    "ki-tools/README.md": "ki-tools/tools.md",
+    "ki/agent/README.md": "ki/agent/moby/README.md",
+    "ki/prompts/README.md": "ki/prompts/recherche-auftrag.md",
+    "ki/tools/README.md": "ki/tools/tools.md",
     "suche/README.md": "suche/dokumentieren.md",
     "faktencheck/README.md": "faktencheck/text-pruefen.md",
     "links/README.md": "links/werkzeuge.md",
@@ -112,7 +113,7 @@ UMLEITUNG = {
 # Seiten nur für die Pflege: Links darauf werden in der Leseversion zu normalem Text
 NICHT_IM_PAKET = {"wartung/README.md"}
 
-SPICKZETTEL = "ki-tools/spickzettel.pdf"
+SPICKZETTEL = "ki/tools/spickzettel.pdf"
 FOLIEN = "folien/Folien_Recherche_und_Faktencheck.pdf"
 
 
@@ -182,7 +183,7 @@ def ziel_aufloesen(link: str, von: str, warnungen: list):
         return "datei", "Spickzettel.pdf"
     if voll == FOLIEN:
         return "datei", "Folien_Recherche_und_Faktencheck.pdf"
-    if voll.startswith("skills/zum-hochladen/") and voll.endswith(".zip"):
+    if voll.startswith("ki/skills/zum-hochladen/") and voll.endswith(".zip"):
         return "datei", "Skills_zum_Hochladen/" + posixpath.basename(voll)
     warnungen.append(f"Link ohne Ziel im Paket: {link} (in {von})")
     return "text", None
@@ -439,7 +440,7 @@ Skills_zum_Kopieren/
 Skills_zum_Hochladen/
   Pakete für Claude und Gemini. Für Claude nicht entpacken, so hochladen.
   Für Gemini entpacken und den Ordner hochladen. Anleitung in
-  Werkzeugkasten.html, Abschnitt „Skills: Überblick und Anleitung“.
+  Werkzeugkasten.html, Abschnitt „KI: Skills“, „Überblick und Anleitung“.
 
 Fuer_KI-Chats/
   Der ganze Werkzeugkasten als eine Textdatei, ohne die Skill-Texte.
@@ -492,7 +493,7 @@ def paket_bauen():
     ]
     for quelle, datei, _, _ in TEXTE:
         eintraege.append((f"Skills_zum_Kopieren/{datei}", (WURZEL / quelle).read_bytes()))
-    for paket in sorted((WURZEL / "skills" / "zum-hochladen").glob("*.zip")):
+    for paket in sorted((WURZEL / "ki" / "skills" / "zum-hochladen").glob("*.zip")):
         eintraege.append((f"Skills_zum_Hochladen/{paket.name}", paket.read_bytes()))
 
     puffer = io.BytesIO()

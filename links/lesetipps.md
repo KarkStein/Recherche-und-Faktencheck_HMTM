@@ -21,7 +21,7 @@ Zum Weiterlesen und Weiterhören, quer durch die sechs Kapitel des Seminars. Die
 | [Die OpenAI Story](https://www.ardsounds.de/sendung/die-openai-story/urn:ard:show:8862c28ddc06b3b7/), Deutschlandfunk, 2026 | Sechs Folgen von je rund einer halben Stunde, von Fritz Espenlaub: wie aus einem gemeinnützigen Forschungslabor der Konzern hinter ChatGPT wurde, mit Machtkämpfen und roten Linien. Im selben Feed: Die Peter Thiel Story | 4 |
 | [Der KI-Podcast](https://www.ardsounds.de/sendung/der-ki-podcast/urn:ard:show:65505255c703e51e/), ARD | Jeden Dienstag, für Einsteiger und Profis: Was kann KI wirklich, was ist Marketing, und wie nutzt man sie, ohne sich täuschen zu lassen? Mit Gregor Schmalzried, Marie Kilg und Fritz Espenlaub | 4, 6 |
 
-Weitere Podcasts und Newsletter zum Dranbleiben, etwa das KI-Update von heise, stehen in [Neue KI-Tools finden](../ki-tools/neue-tools-finden.md#dranbleiben-quellen-für-neue-tools).
+Weitere Podcasts und Newsletter zum Dranbleiben, etwa das KI-Update von heise, stehen in [Neue KI-Tools finden](../ki/tools/neue-tools-finden.md#dranbleiben-quellen-für-neue-tools).
 
 ## Studien
 

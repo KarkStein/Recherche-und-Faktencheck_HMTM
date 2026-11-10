@@ -1,6 +1,6 @@
-"""Baut aus jeder skills/<name>/SKILL.md ein Paket zum Hochladen.
+"""Baut aus jeder ki/skills/<name>/SKILL.md ein Paket zum Hochladen.
 
-Das Paket skills/zum-hochladen/<name>.zip enthält nur den Ordner <name>/
+Das Paket ki/skills/zum-hochladen/<name>.zip enthält nur den Ordner <name>/
 mit der Datei SKILL.md. So erwarten es Claude und Gemini: Der Ordner heißt
 wie der Skill, darin liegt SKILL.md.
 
@@ -23,7 +23,7 @@ import zipfile
 from pathlib import Path
 
 WURZEL = Path(__file__).resolve().parent.parent
-SKILLS = WURZEL / "skills"
+SKILLS = WURZEL / "ki" / "skills"
 ZIEL = SKILLS / "zum-hochladen"
 NAME_MUSTER = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 # Feste Zeit im ZIP, damit ein neuer Lauf ohne Änderung dieselbe Datei ergibt.

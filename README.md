@@ -12,11 +12,8 @@ Stand: 10.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
 
 | Ordner | Was drin ist | Kapitel |
 |---|---|---|
-| [skills/](skills/README.md) | sechs Skills zum Kopieren oder Hochladen, vom Faktencheck bis zum Prompthelfer, mit Anleitung, wie ihr sie einsetzt | 2–5 |
-| [agent/](agent/README.md) | [Moby](agent/moby/README.md), der Faktencheck-Assistent für Projekt, GPT oder Le-Chat-Agent | 5 |
-| [prompts/](prompts/README.md) | [Von der Frage zum Auftrag](prompts/recherche-auftrag.md), [KI-Antworten prüfen](prompts/ki-antworten-pruefen.md) | 4 |
-| [ki-tools/](ki-tools/README.md) | [Spickzettel](ki-tools/spickzettel.pdf) als PDF, [alle Tools mit Link](ki-tools/tools.md), [Neue KI-Tools finden und prüfen](ki-tools/neue-tools-finden.md) | 4, 6 |
 | [suche/](suche/README.md) | [Ergebnisse dokumentieren](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
+| [ki/](ki/README.md) | KI in der Recherche: [Tools und Spickzettel](ki/tools/README.md), [Prompts](ki/prompts/README.md), sechs [Skills](ki/skills/README.md) zum Kopieren oder Hochladen und der Faktencheck-Assistent [Moby](ki/agent/moby/README.md) | 4–6 |
 | [faktencheck/](faktencheck/README.md) | [Texte prüfen: das Handwerk](faktencheck/text-pruefen.md); [Bilder prüfen und Geolokation](faktencheck/bilder-pruefen.md) | 5 |
 | [links/](links/README.md) | [Werkzeuge nach Kapiteln](links/werkzeuge.md), [Lesetipps: Artikel, Podcasts, Studien, Bücher](links/lesetipps.md), [Recherche-Links zu Kulturthemen](links/kultur.md) | alle |
 | [folien/](folien/README.md) | die [Seminarfolien als PDF](folien/Folien_Recherche_und_Faktencheck.pdf), korrigierte Fassung, ohne Sprechernotizen | alle |
@@ -26,14 +23,14 @@ Die Kapitel sind die der [Seminarfolien](folien/README.md). Jeder Ordner hat ein
 
 ## In zwei Minuten loslegen
 
-1. Öffnet [agent/moby/Moby_Faktencheck.md](agent/moby/Moby_Faktencheck.md).
+1. Öffnet die Datei [Moby_Faktencheck.md](ki/agent/moby/Moby_Faktencheck.md).
 2. Klickt oben rechts über dem Text auf das Kopier-Symbol („Copy raw file“).
 3. Fügt alles in einen KI-Chat mit Websuche ein und schickt es ab.
 4. Nächste Nachricht: „Prüfe diesen Text:“ und darunter euer Text.
 
-**Eigenes Thema?** Genauso mit dem [Prompthelfer](skills/prompthelfer/SKILL.md): einfügen, abschicken, Thema nennen. Er fragt nach und schreibt mit euch den Prompt.
+**Eigenes Thema?** Genauso mit dem [Prompthelfer](ki/skills/prompthelfer/SKILL.md): einfügen, abschicken, Thema nennen. Er fragt nach und schreibt mit euch den Prompt.
 
-Habt ihr ein Konto bei Claude oder Gemini, könnt ihr die Skills auch hochladen. Dann starten sie in jedem Chat von selbst, sobald eure Frage passt. Wie das geht, auch für Projekte und Agenten, steht in der [Anleitung](skills/README.md).
+Habt ihr ein Konto bei Claude oder Gemini, könnt ihr die Skills auch hochladen. Dann starten sie in jedem Chat von selbst, sobald eure Frage passt. Wie das geht, auch für Projekte und Agenten, steht in der [Anleitung](ki/skills/README.md).
 
 **Herunterladen:** das [Gesamtpaket](gesamtpaket/README.md) zum Lesen und Weitergeben. Oder die Dateien so, wie sie hier liegen: grüner Knopf „Code“, dann „Download ZIP“.
 

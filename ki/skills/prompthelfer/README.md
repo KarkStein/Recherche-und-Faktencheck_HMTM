@@ -27,7 +27,7 @@ Habt ihr erst ein Thema und noch keine Frage, schlägt er euch drei mögliche Zu
 
 ## Voraussetzung
 
-Ein KI-Chat, egal welcher. Der Prompthelfer braucht **keine Websuche**, weil er nur Prompts schreibt und nicht recherchiert. Er läuft also auch in Tools ohne Konto (siehe [Tool-Liste](../../ki-tools/tools.md)). Wie ihr ihn einsetzt, steht in der [Anleitung](../README.md).
+Ein KI-Chat, egal welcher. Der Prompthelfer braucht **keine Websuche**, weil er nur Prompts schreibt und nicht recherchiert. Er läuft also auch in Tools ohne Konto (siehe [Tool-Liste](../../tools/tools.md)). Wie ihr ihn einsetzt, steht in der [Anleitung](../README.md).
 
 Den fertigen Prompt setzt ihr in einem **neuen** Chat ein. Geht es um Fakten, in einem mit Websuche.
 

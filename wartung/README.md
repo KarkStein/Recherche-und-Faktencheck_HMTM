@@ -4,7 +4,7 @@ Dieser Ordner ist für die Pflege des Repos. Zum Lesen und Nutzen des Werkzeugka
 
 | Datei | Was sie tut |
 |---|---|
-| [skills_packen.py](skills_packen.py) | baut aus jeder `SKILL.md` das Paket in `skills/zum-hochladen/` und prüft vorher den Kopf der Datei (`name`, `description`) |
+| [skills_packen.py](skills_packen.py) | baut aus jeder `SKILL.md` das Paket in `ki/skills/zum-hochladen/` und prüft vorher den Kopf der Datei (`name`, `description`) |
 | [gesamtpaket_bauen.py](gesamtpaket_bauen.py) | baut das [Gesamtpaket](../gesamtpaket/README.md): alle Seiten als eine HTML-Datei, die Skills als Textdateien, eine Datei für KI-Chats, die Pakete, die Folien und den Spickzettel, zusammen in einer ZIP-Datei |
 
 ## Nach jeder Änderung
@@ -36,7 +36,7 @@ Damit sich Leserinnen und Leser überall gleich zurechtfinden, folgen alle Seite
 2. Stand: TT.MM.JJJJ
 3. Abschnitte in dieser Reihenfolge: Welche Datei wofür · Voraussetzung · So fragt ihr · Das Ergebnis lesen · Grenzen · Herkunft
 4. Erlaubt ist ein Zusatzabschnitt, wo er nötig ist, etwa „Faktencheck oder Moby?“
-5. Wie man einen Skill einrichtet, steht nur in der [Anleitung](../skills/README.md), nicht auf jeder Skill-Seite. Ausnahme: Moby, der als Assistent anders eingerichtet wird.
+5. Wie man einen Skill einrichtet, steht nur in der [Anleitung](../ki/skills/README.md), nicht auf jeder Skill-Seite. Ausnahme: Moby, der als Assistent anders eingerichtet wird.
 6. Herkunft: ein Satz, auf welchem Redaktions-Werkzeug der Skill beruht.
 
 **Inhaltsseite** (alle anderen Seiten)
@@ -44,6 +44,6 @@ Damit sich Leserinnen und Leser überall gleich zurechtfinden, folgen alle Seite
 2. Kopfzeile: „Aus Kapitel X des Seminars. Stand: TT.MM.JJJJ.“
 3. Prüfstufe der Links, wenn die Seite Links enthält, als eine Zeile: „**Prüfstufe:** übernommen aus den Folien.“ oder „**Prüfstufe:** geöffnet am TT.MM.JJJJ.“, Ausnahmen kurz dahinter. Was die Stufen bedeuten, steht nur auf der Startseite.
 
-**Skills erwähnen:** Vorgestellt werden die Skills nur auf der Startseite und in der [Skill-Übersicht](../skills/README.md). Auf Inhaltsseiten steht ein Skill nur dort, wo er genau den Arbeitsschritt der Seite übernimmt, etwa der PDB-Helfer bei den Suchstrings. Jedes Thema wird an einer Stelle erklärt, sonst steht dort ein Link.
+**Skills erwähnen:** Vorgestellt werden die Skills nur auf der Startseite und in der [Skill-Übersicht](../ki/skills/README.md). Auf Inhaltsseiten steht ein Skill nur dort, wo er genau den Arbeitsschritt der Seite übernimmt, etwa der PDB-Helfer bei den Suchstrings. Jedes Thema wird an einer Stelle erklärt, sonst steht dort ein Link.
 
 **Stand** heißt: An diesem Tag wurden die Angaben auf der Seite zuletzt geprüft oder geändert. Wer nur umformuliert, lässt das Datum stehen.

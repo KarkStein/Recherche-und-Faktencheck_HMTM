@@ -19,7 +19,7 @@ Wenn ihr die Wahl habt, nehmt die Langfassung. Sie enthält die Quellenregeln un
 
 Ein KI-Assistent, der **im Web suchen** kann. Ohne Websuche erfindet ein Modell im schlimmsten Fall Quellen. Moby ist so gebaut, dass er dann ablehnt und nur die Prüfliste liefert. Noch besser ist ein Tool, das gefundene Seiten auch **öffnen und lesen** kann, nicht nur die Suchtreffer.
 
-Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der [Tool-Liste](../../ki-tools/tools.md)).
+Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopieren, der eine Websuche hat (welche das sind, steht in der [Tool-Liste](../../tools/tools.md)).
 
 ## So richtet ihr Moby ein
 
@@ -54,7 +54,7 @@ Ein Konto anzulegen ist freiwillig. Ohne Konto: Langfassung in einen Chat kopier
 
 - **Erst testen:** Moby läuft nicht in jedem Tool gleich gut. Probiert ihn zuerst mit einem Text aus, dessen Fehler ihr kennt, etwa dem Übungstext aus Kapitel 5. Mehr dazu unter [Erst testen, dann nutzen](../../skills/README.md#erst-testen-dann-nutzen).
 - **Ein Status für zwei Fälle:** ❌ heißt bei Moby falsch oder nicht belegt. Wer das getrennt braucht, nimmt den Faktencheck.
-- **Keine Bezahlschranken:** Moby umgeht sie nicht. Was er nicht findet, sucht ihr in den [Pressedatenbanken](../../suche/datenbanken.md) eurer Bibliothek.
+- **Keine Bezahlschranken:** Moby umgeht sie nicht. Was er nicht findet, sucht ihr in den [Pressedatenbanken](../../../suche/datenbanken.md) eurer Bibliothek.
 - **Besser machen:** mit einer eigenen Quellenliste, eurem Material als Dateien im Projekt oder angebundenen Datenbanken. Wie, steht unter [Das würde die Skills noch besser machen](../../skills/README.md#das-würde-die-skills-noch-besser-machen).
 
 ## Herkunft

@@ -86,7 +86,7 @@ Eine Faustregel, kein Automatismus:
 
 ## Verifikation mit Sprachmodellen?
 
-Sprachmodelle können helfen, verlassen könnt ihr euch nie darauf. Ein schwacher Prompt fragt nur: „Ist dieses Video echt oder KI-generiert?“ Ein starker Prompt hat fünf Teile, wie der Auftrag in [Von der Frage zum Auftrag](../prompts/recherche-auftrag.md):
+Sprachmodelle können helfen, verlassen könnt ihr euch nie darauf. Ein schwacher Prompt fragt nur: „Ist dieses Video echt oder KI-generiert?“ Ein starker Prompt hat fünf Teile, wie der Auftrag in [Von der Frage zum Auftrag](../ki/prompts/recherche-auftrag.md):
 
 ```
 Rolle: Du bist eine erfahrene OSINT-Analystin.
