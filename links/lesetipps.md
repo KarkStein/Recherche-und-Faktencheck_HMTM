@@ -2,7 +2,7 @@
 
 Zum Weiterlesen und Weiterhören, quer durch die sechs Kapitel des Seminars. Die Spalte „Kap.“ sagt, wozu ein Tipp passt. Stand: 10.11.2026.
 
-**Prüfstufe:** Alle Links sind **geöffnet am 07. oder 10.11.2026**. Bei den Büchern stehen Verlag und Jahr aus den Verlags- und Rezensionsseiten.
+**Prüfstufe:** Alle Links sind **geöffnet am 07. oder 10.11.2026**. Bei den Büchern stammen Verlag und Jahr von Verlags-, Rezensions- und Händlerseiten.
 
 ## Artikel und Essays
 
