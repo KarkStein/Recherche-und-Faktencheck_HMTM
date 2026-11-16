@@ -1,0 +1,63 @@
+# Recherche und Faktencheck · Werkzeugkasten
+
+Material zum Seminar „Recherche und Faktencheck“ im Master Kulturjournalismus an der Hochschule für Musik und Theater München, 05. und 06.11.2026.
+
+Hier liegt, was ihr nach dem Seminar weiter nutzen könnt: die Folien als PDF, sechs KI-Skills zum Kopieren oder Hochladen, darunter ein Prompthelfer für eure eigenen Themen, dazu der Faktencheck-Assistent Moby, Anleitungen zum Prüfen von Texten und Bildern, Linklisten mit Werkzeugen und Lesetipps, der Spickzettel zu KI-Tools und eine Anleitung, wie ihr selbst neue KI-Tools findet und prüft.
+
+Diese Seite liegt auf GitHub, einer Plattform für Textdateien mit Änderungsverlauf. Ihr braucht dafür kein Konto: Lesen, Kopieren und Herunterladen geht ohne. Wer mit GitHub nichts anfangen will, nimmt das [Gesamtpaket](gesamtpaket/README.md): alles in einer ZIP-Datei, lesbar im Browser, auch ohne Internet.
+
+Stand: 16.11.2026 · Lizenz: [CC BY 4.0](LICENSE)
+
+## Was wo liegt
+
+| Ordner | Was drin ist | Kapitel |
+|---|---|---|
+| [suche/](suche/README.md) | [Ergebnisse dokumentieren](suche/dokumentieren.md); [Suchen im Web: Suchmaschinen, Google, Web-Archiv](suche/google-operatoren.md); [Datenbanken mit Zugang und Syntax](suche/datenbanken.md); [Social Media durchsuchen](suche/social-media.md) | 1, 2, 3, 5 |
+| [ki/](ki/README.md) | KI in der Recherche: [Tools und Spickzettel](ki/tools/README.md), [Prompts](ki/prompts/README.md), sechs [Skills](ki/skills/README.md) zum Kopieren oder Hochladen und der Faktencheck-Assistent [Moby](ki/agent/moby/README.md) | 4–6 |
+| [faktencheck/](faktencheck/README.md) | [Texte prüfen: das Handwerk](faktencheck/text-pruefen.md); [Bilder prüfen und Geolokation](faktencheck/bilder-pruefen.md) | 5 |
+| [links/](links/README.md) | [Werkzeuge nach Kapiteln](links/werkzeuge.md), [Lesetipps: Artikel, Podcasts, Studien, Bücher](links/lesetipps.md), [Recherche-Links zu Kulturthemen](links/kultur.md) | alle |
+| [folien/](folien/README.md) | die [Seminarfolien als PDF](folien/Folien_Recherche_und_Faktencheck.pdf), korrigierte Fassung, ohne Sprechernotizen; hier im Repo ohne Fotos Dritter | alle |
+| [gesamtpaket/](gesamtpaket/README.md) | alles in einer ZIP-Datei zum Herunterladen und Weitergeben | – |
+
+Die Kapitel sind die der [Seminarfolien](folien/README.md). Jeder Ordner hat eine eigene Seite, die erklärt, was darin liegt.
+
+## In zwei Minuten loslegen
+
+1. Öffnet die Datei [Moby_Faktencheck.md](ki/agent/moby/Moby_Faktencheck.md).
+2. Klickt oben rechts über dem Text auf das Kopier-Symbol („Copy raw file“).
+3. Fügt alles in einen KI-Chat mit Websuche ein und schickt es ab.
+4. Nächste Nachricht: „Prüfe diesen Text:“ und darunter euer Text.
+
+**Eigenes Thema?** Genauso mit dem [Prompthelfer](ki/skills/prompthelfer/SKILL.md): einfügen, abschicken, Thema nennen. Er fragt nach und schreibt mit euch den Prompt.
+
+Habt ihr ein Konto bei Claude oder Gemini, könnt ihr die Skills auch hochladen. Dann starten sie in jedem Chat von selbst, sobald eure Frage passt. Wie das geht, auch für Projekte und Agenten, steht in der [Anleitung](ki/skills/README.md).
+
+**Herunterladen:** das [Gesamtpaket](gesamtpaket/README.md) zum Lesen und Weitergeben. Oder die Dateien so, wie sie hier liegen: grüner Knopf „Code“, dann „Download ZIP“.
+
+## Prüfstufen
+
+Wie im Seminar trägt jeder Link eine Prüfstufe. Sie steht oben auf jeder Seite:
+
+- **geöffnet (mit Datum):** Die Seite wurde aufgerufen und die Angabe dort gesehen.
+- **übernommen:** aus den Seminarfolien oder dem Spickzettel übernommen, für dieses Repo nicht erneut geöffnet.
+- **zu prüfen:** nicht verifiziert.
+
+Zugänge und Preise ändern sich schnell. Alle Angaben stehen mit Datum und ohne Gewähr. Funktioniert ein Link nicht mehr, sucht die Seite über ihren Namen oder im [Internet Archive](https://web.archive.org/). Findet ihr einen toten Link oder eine veraltete Angabe, schreibt Florian: Die Adresse steht in der Mail zum Seminar.
+
+## Kleines Wörterbuch
+
+- **Prompt:** die Frage oder Anweisung, die ihr einer KI schreibt.
+- **Skill:** ein langer Prompt mit festen Regeln für eine Aufgabe, die immer wiederkommt. Manche Tools laden ihn von selbst, sobald eure Frage passt.
+- **Assistent (Projekt, GPT, Agent):** ein eingerichteter Raum in einem KI-Tool, der eure Anweisungen für jeden neuen Chat behält.
+- **Websuche und Seitenabruf:** ob eine KI im Netz suchen kann und ob sie gefundene Seiten auch öffnet. „Snippet“ heißt: Sie kennt nur den kurzen Ausschnitt aus dem Suchtreffer, nicht die Seite.
+- **Repo (Repository):** diese Sammlung auf GitHub, ein öffentlicher Ordner mit Dateien und ihrem Änderungsverlauf.
+- **.md (Markdown):** einfache Textdateien mit wenigen Zeichen für die Formatierung, etwa `#` für Überschriften. GitHub zeigt sie formatiert an, jedes Textprogramm öffnet sie.
+- **ZIP:** ein gepackter Ordner. Entpacken: am Mac per Doppelklick, unter Windows mit Rechtsklick und „Alle extrahieren“.
+
+## Lizenz
+
+Texte und Skills in diesem Repo stehen unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de): Ihr dürft sie teilen und verändern, auch für eure Arbeit, wenn ihr die Quelle nennt und angebt, was ihr geändert habt. Für verlinkte Angebote Dritter gelten deren Bedingungen.
+
+Die Skills beruhen auf Assistenten, die Florian in der Redaktion nutzt, und sind für dieses Seminar umgebaut.
+
+Für die Pflege des Repos: [wartung/](wartung/README.md).
